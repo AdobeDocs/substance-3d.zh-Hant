@@ -35,9 +35,9 @@ ht-degree: 1%
 
 如果你想嘗試使用 SBSAR 檔案，有許多方法可以取得自己的 SBSAR 資料：
 
-* 免費的Substance教材可在3D社群資產](https://helpx.adobe.com/substance-3d/unlisted/assets.html)網站找到[。
+* 免費的Substance教材可在3D社群資產[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/assets.html)網站找到。
 * Substance 的可下載資料可透過 [Substance 3D Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html) 網站作為訂閱的一部分取得。
-* 具有可曝光參數的Substance材料可用Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)和[Substance 3D Sampler](https://helpx.adobe.com/substance-3d-sampler.html)製作[。（請務必參考我們的[優化指引](../game-engines/unity/optimization-guidelines/optimization-guidelines.md)。 )
+* 具有可曝光參數的Substance材料可用Substance 3D Designer[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)和[Substance 3D Sampler](https://helpx.adobe.com/substance-3d-sampler.html)製作。（請務必參考我們的[優化指引](../game-engines/unity/optimization-guidelines/optimization-guidelines.md)。 )
 * Substance 3D 連接器可用於在第一方與第三方應用程式間無縫共享 Substance 材料。 欲了解更多資訊，請閱讀我們的[官方部落格文章](https://blog.adobe.com/en/publish/2024/04/04/substance-3d-connector-bridging-tools-3dworkflows)。
 
 >[!NOTE]

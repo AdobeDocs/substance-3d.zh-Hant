@@ -39,4 +39,4 @@ ht-degree: 0%
 > 有兩種可能的解決方案：
 > 
 > * 調整你的烘焙設定以避免黑色材質，參見： [烘焙輸出完全黑色或空](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
-> * 從貼圖集設定](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)中移除黑色貼圖[。
+> * 從貼圖集設定[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)中移除黑色貼圖。

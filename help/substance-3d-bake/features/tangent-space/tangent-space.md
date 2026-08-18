@@ -60,7 +60,7 @@ Substance Painter 目前不支援自訂的 Tangent Space 插件。 這表示如�
 1. 選擇 **編輯** > **偏好設定**。
 
    ![](../../assets/sd-edit-pref.png)
-1. 點擊專案&#x200B;****。
+1. 點擊專案&#x200B;**&#x200B;**。
 
    ![](../../assets/sd-pref-projects.png)
 1. 進入 **「一般** 」標籤。 往下滑直到看到 3D 場景&#x200B;**區**&#x200B;塊。

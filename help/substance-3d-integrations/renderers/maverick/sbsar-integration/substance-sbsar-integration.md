@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # 物質SBSAR整合
 
-**你可以**&#x200B;輕易&#x200B;****&#x200B;將 Substance Designer 或 Substance **** Alchemist **** 建立&#x200B;****&#x200B;的 SBSAR 檔案&#x200B;****&#x200B;帶&#x200B;****&#x200B;到 ****Maverick ****，使用************&#x200B;以下&#x200B;****&#x200B;兩種&#x200B;****&#x200B;方法**之一**:****
+**你可以**&#x200B;輕易&#x200B;**&#x200B;**&#x200B;將 Substance Designer 或 Substance **&#x200B;**&#x200B;Alchemist **&#x200B;**&#x200B;建立&#x200B;**&#x200B;**&#x200B;的 SBSAR 檔案&#x200B;**&#x200B;**&#x200B;帶&#x200B;**&#x200B;**&#x200B;到 **&#x200B;**&#x200B;Maverick **&#x200B;**，使用&#x200B;**&#x200B;**&#x200B;**&#x200B;**&#x200B;**&#x200B;**&#x200B;以下&#x200B;**&#x200B;**&#x200B;兩種&#x200B;**&#x200B;**&#x200B;方法&#x200B;**之一**:**&#x200B;**
 
-**方法****一：**
+**方法**&#x200B;**一：**
 
 1. 請使用 SBSAR 圖示並選擇您的 SBSAR 檔案。
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](../../../assets/maverickrender-sbsar-drop.jpg)
 
-   **方法****二****:**
+   **方法**&#x200B;**二**&#x200B;**:**
 1. 只要把 Windows 檔案總管裡的 SBSAR 檔案丟到場景中的任意物件上即可。 你也可以把 SBSAR 檔案放到材質面板上。
 1. 在匯入對話框中，你可以設定一些材質參數：
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    你可以在這裡看到 Maverick 中使用 SBSAR 的實務範例： <https://youtu.be/ebVI5jJD71A>
 
-   **支援****連結：**
+   **支援**&#x200B;**連結：**
 
    郵件寄給 [gorilla@maverickrender.com](https://helpx.adobe.com/mailto:gorilla@maverickrender.com)
 

@@ -33,6 +33,6 @@ ht-degree: 0%
 > 此問題目前尚無立即解決方案，因為多種因素可能造成：
 > 
 > * 確認 Substance 軟體與外部應用程式之間的正常格式是否相同。 OpenGL 是 [X+， Y+， Z+]，DirectX 是 [X+， Y-， Z+]
->   * 在 Substance Painter 中，可以在專案設定](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/project-configuration)中更改[正常格式。
->   * 在 Substance Designer 中，可以在專案偏好設定](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)中更改[一般格式。
+>   * 在 Substance Painter 中，可以在專案設定[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/project-configuration)中更改正常格式。
+>   * 在 Substance Designer 中，可以在專案偏好設定[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)中更改一般格式。
 > * 在烘焙並匯入 Substance 軟體前，請確認網格是否已被三角定位。 更多資訊請參見 [此頁面](../../guides/triangulating-before-bak/triangulating-before-baking.md) 。

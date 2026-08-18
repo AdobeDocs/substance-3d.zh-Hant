@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance 3D 資產庫的使用
 
-在Substance 3D資產庫](https://helpx.adobe.com/substance-3d/unlisted/assets.html)中，使用超過1000個高品質可調整及可匯出的4K素材，並具備預設設定[。你可以在 [社群資源庫](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)中探索社群貢獻的素材。
+在Substance 3D資產庫[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/assets.html)中，使用超過1000個高品質可調整及可匯出的4K素材，並具備預設設定。你可以在 [社群資源庫](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)中探索社群貢獻的素材。
 
 你可以從資產庫下載素材，並在 Unity 中使用。
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 倫德曼
 
-使用 pxrSurface 或 pxrDisney 表面材質，你可以從 Substance Designer 和 Substance Painter 渲染 PBR 輸出。 雖然 pxrDisney 較為直接，因為它支援基色/粗糙度/金屬色輸出，但它現在是 Renderman 的舊材質，pxrSurface [](https://rmanwiki.pixar.com/display/REN/PxrSurface) 是首選方法。
+使用 pxrSurface 或 pxrDisney 表面材質，你可以從 Substance Designer 和 Substance Painter 渲染 PBR 輸出。 雖然 pxrDisney 較為直接，因為它支援基色/粗糙度/金屬色輸出，但它現在是 Renderman 的舊材質，pxrSurface [&#128279;](https://rmanwiki.pixar.com/display/REN/PxrSurface) 是首選方法。
 
 欲了解更多 pxrSurface 相關資訊，請參閱 Renderman 文件。 <https://rmanwiki.pixar.com/display/REN/PxrSurface>
 

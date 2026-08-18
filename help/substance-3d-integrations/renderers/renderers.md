@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 渲染器
 
-Substance Source 提供的 [Substance 材質包含物理基礎著色器的輸出，並支援[金屬/粗糙度（預設工作流程）及鏡面/光澤工作流程](https://academy.substance3d.com/courses/pbrguides)。](https://source.substance3d.com/)了解你的渲染器材質所支援的工作流程非常重要。 根據渲染器不同，你可能能直接使用 Substance 材質的輸出，或者需要轉換輸出材質。 自訂 Substance 材質或你從 Substance Share 下載的材質，可能不包含特定渲染器所需的適當輸出。
+Substance Source 提供的 [&#128279;](https://source.substance3d.com/)Substance 材質包含物理基礎著色器的輸出，並支援[金屬/粗糙度（預設工作流程）及鏡面/光澤工作流程](https://academy.substance3d.com/courses/pbrguides)。了解你的渲染器材質所支援的工作流程非常重要。 根據渲染器不同，你可能能直接使用 Substance 材質的輸出，或者需要轉換輸出材質。 自訂 Substance 材質或你從 Substance Share 下載的材質，可能不包含特定渲染器所需的適當輸出。
 
 ![](../assets/outputs.png){width="200px"}
 

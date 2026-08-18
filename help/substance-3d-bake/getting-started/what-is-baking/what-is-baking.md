@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
->> 
+&#x200B;>> 
 
 （來源：[Paolo Cignoni]（https://commons.wikimedia.org/wiki/File:Normal_map_example.png）- [CC BY-SA 1.0]（https://creativecommons.org/licenses/by-sa/1.0））
 

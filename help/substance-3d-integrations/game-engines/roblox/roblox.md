@@ -83,7 +83,7 @@ ht-degree: 0%
 * 進入 `templates` 目錄並點選 **「選擇資料夾」**
 * 點擊 **確定** 鍵
 * 前往 **檔案>新的>物質圖表......**
-* 請檢查該範本是否`Roblox`列在新物質圖表](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗的模板列表[底部
+* 請檢查該範本是否`Roblox`列在新物質圖表[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗的模板列表底部
 
 </td>
 <td style="border: 0;" valign="top">
@@ -104,9 +104,9 @@ ht-degree: 0%
 
 * 在[新物質圖](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗中，選擇範本`Roblox`
 * 設定圖表的識別碼和其他參數，然後點擊 **確定**
-* 在圖表檢視](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)中處理你的材料[——請參考[這裡](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)了解如何工作流程的起點
+* 在圖表檢視[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)中處理你的材料——請參考[這裡](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)了解如何工作流程的起點
 * 完成後，請到&#x200B;**圖檢視&#x200B;*工具列中的工具 > 匯出點陣圖***
-* 在[匯出點陣](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps)圖視窗中，設定有效的&#x200B;**目的地**&#x200B;路徑，確保&#x200B;*所有*&#x200B;輸出都已&#x200B;**&#x200B;勾選，然後點選&#x200B;**匯出**
+* 在[匯出點陣](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps)圖視窗中，設定有效的&#x200B;**目的地**&#x200B;路徑，確保&#x200B;*所有*&#x200B;輸出都已&#x200B;**&#x200B;勾選，然後點選&#x200B;**&#x200B;匯出**
 * 檢查貼圖是否正確匯出到 **目的地** 路徑
 
 </td>
@@ -126,7 +126,7 @@ ht-degree: 0%
 
 在 Roblox 裡，建立一個材質變體，並指派從 Designer 匯出的材質。
 
-* 選擇模型&#x200B;****&#x200B;標籤，點選&#x200B;**材料管理器**
+* 選擇模型&#x200B;**&#x200B;**&#x200B;標籤，點選&#x200B;**材料管理器**
 * 選擇一個 *材質範本* ，然後點擊 **建立變體** 按鈕
 * 在 **Create 變體** 視窗中，為材質設定名稱
 * 對於 *每個材質通道*，點擊 **匯入** 按鈕，選擇從 Designer 匯出的對應材質

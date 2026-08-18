@@ -29,7 +29,7 @@ Using Substance.Game
 
 Substance.Game 是包含用於腳本的類別的組合語言。 這些類別如下：
 
-**內容。遊戲。****內容**：參考SBSAR
+**內容。遊戲。**&#x200B;**內容**：參考SBSAR
 
 **Substance.Game.SubstanceGraph**：SBSAR 中的個別圖。*（曾在 Unity 2017 中稱為 ProceduralMaterial）*
 

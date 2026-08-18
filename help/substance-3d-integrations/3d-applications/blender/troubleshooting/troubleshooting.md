@@ -22,7 +22,7 @@ ht-degree: 0%
 
 系統主控台可用於診斷使用附加元件時遇到的錯誤。 Blender 的系統主控台視窗會根據你的作業系統不同而不同地開啟。 如需詳細說明，請依照 Blender 系統主控台 [文件頁面](https://docs.blender.org/manual/en/2.79/advanced/command_line/introduction.html#console-window-status-and-error-messages)的步驟操作。 控制台輸出在遇到意外問題時很有幫助，例如材質無法載入或材質卡在處理過程中。
 
-若要回報錯誤，請加入Substance Discord伺服器的 [#substance-blender-beta頻道，或造訪[Adobe社群](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-blender)。](https://discord.com/invite/substance3d)主控台日誌中的相關資訊及任何重複步驟可納入報告中。
+若要回報錯誤，請加入Substance Discord伺服器的 [&#128279;](https://discord.com/invite/substance3d)#substance-blender-beta頻道，或造訪[Adobe社群](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-blender)。主控台日誌中的相關資訊及任何重複步驟可納入報告中。
 
 ## 常見問題與解決方案
 
