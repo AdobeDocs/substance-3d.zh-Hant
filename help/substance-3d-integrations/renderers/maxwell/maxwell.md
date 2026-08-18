@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/maxwell.html"
 breadcrumb-title: ''
 description: 在 Maya 和 Painter 中使用 Substance 材質搭配 Maxwell renderer，進行物理基礎渲染工作流程。
 helpx_creative_field: ""

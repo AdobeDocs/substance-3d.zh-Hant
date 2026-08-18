@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/blender.html"
 breadcrumb-title: ''
 description: 安裝並使用 Blender 的 Substance 3D 外掛，匯入並在你的 3D 專案中操作 Substance 材質。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
 breadcrumb-title: ''
 description: 使用 Substance Maya API 來撰寫 Substance 材質的腳本，並在你的 Maya 工作流程中進行管理。
 helpx_creative_field: ""

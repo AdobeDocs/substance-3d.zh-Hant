@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-3.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-3.html"
 breadcrumb-title: ''
 description: 請參閱 Unity 外掛 2.4.3 版本的發佈說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/houdini.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/houdini.html"
 breadcrumb-title: ''
 description: 在 Houdini 中透過匯出的材質貼圖來進行程序化工作流程和渲染，使用 Substance 材質。
 helpx_creative_field: ""

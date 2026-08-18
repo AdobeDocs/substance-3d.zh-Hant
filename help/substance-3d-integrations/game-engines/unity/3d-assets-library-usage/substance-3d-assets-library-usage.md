@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-assets-library-usage.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/substance-3d-assets-library-usage.html"
 breadcrumb-title: ''
 description: 存取並使用來自 Unity 專案中資產庫及社群資產的高品質 Substance 資料。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance 3D 資產庫的使用
 
-在Substance 3D資產庫[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/assets.html)中，使用超過1000個高品質可調整及可匯出的4K素材，並具備預設設定。你可以在 [社群資源庫](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)中探索社群貢獻的素材。
+在Substance 3D資產庫[&#128279;](https://helpx.adobe.com/tw/substance-3d/unlisted/assets.html)中，使用超過1000個高品質可調整及可匯出的4K素材，並具備預設設定。你可以在 [社群資源庫](https://helpx.adobe.com/tw/substance-3d/unlisted/community-assets.html)中探索社群貢獻的素材。
 
 你可以從資產庫下載素材，並在 Unity 中使用。
 

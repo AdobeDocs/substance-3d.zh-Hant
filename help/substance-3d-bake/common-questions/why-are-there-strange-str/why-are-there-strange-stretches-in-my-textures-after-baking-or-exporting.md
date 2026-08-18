@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
 breadcrumb-title: ''
 description: 找出並修正因 UV 映射或網格問題而產生的烘焙材質中奇怪的拉伸現象。
 helpx_creative_field: ""
@@ -30,4 +30,4 @@ ht-degree: 0%
 >
 > **解法**
 > 
-> Substance Baker 會在 UV 島外同時施加擴散和膨脹來填補空隙，並確保當生成 mipmap 時，貼圖在遊戲引擎中能正常運作。 欲了解更多資訊，請參閱：[填充。](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)
+> Substance Baker 會在 UV 島外同時施加擴散和膨脹來填補空隙，並確保當生成 mipmap 時，貼圖在遊戲引擎中能正常運作。 欲了解更多資訊，請參閱：[填充。](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)

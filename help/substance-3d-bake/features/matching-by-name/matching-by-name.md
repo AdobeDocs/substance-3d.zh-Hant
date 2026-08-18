@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/tw/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: 使用「按名稱匹配」功能來隔離低多邊形與高多邊形網格，並防止烘焙時幾何體滲出。
 helpx_creative_field: ''

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/thea.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/thea.html"
 breadcrumb-title: ''
 description: 使用 Thea Substance Converter 將 Substance SBSAR 檔案轉換為 Thea 材質以進行渲染工作流程。
 helpx_creative_field: ""

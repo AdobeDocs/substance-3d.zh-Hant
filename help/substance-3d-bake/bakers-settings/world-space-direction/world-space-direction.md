@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-direction.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/world-space-direction.html"
 breadcrumb-title: ''
 description: 計算世界空間中的向量方向，並將其儲存成材質以進行方向效果和遮罩。
 helpx_creative_field: ""

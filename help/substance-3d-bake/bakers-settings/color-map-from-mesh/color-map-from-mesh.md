@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
 description: 將高多邊形網格的色彩屬性投射到材質中，烘焙多邊形塗料或材質 ID，用於選取遮罩。
 helpx_creative_field: ""

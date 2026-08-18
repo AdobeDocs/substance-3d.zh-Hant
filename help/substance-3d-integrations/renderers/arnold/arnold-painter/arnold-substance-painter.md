@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
 breadcrumb-title: ''
 description: 使用 Substance Painter 的 Arnold 渲染器輸出範本，搭配 aiStandard 材質來進行物理渲染。
 helpx_creative_field: ""

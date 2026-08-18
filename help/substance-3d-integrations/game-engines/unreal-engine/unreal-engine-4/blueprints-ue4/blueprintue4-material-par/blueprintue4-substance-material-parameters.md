@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
 breadcrumb-title: ''
 description: 在執行時，利用 Blueprint 節點來進行動態材質控制，在執行時更改 Substance 材質參數。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 更改浮點參數：
 
-你會使用 [Set Input Float 節點](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html) 來更改浮點點數、color（float4） 和布林物質參數。
+你會使用 [Set Input Float 節點](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html) 來更改浮點點數、color（float4） 和布林物質參數。
 
 1. 建立一個變數，並以「Substance Graph Instance」為參考。
 1. 建立一個 Set Input Float 節點，並將目標設定為 Substance Graph Instance 變數。

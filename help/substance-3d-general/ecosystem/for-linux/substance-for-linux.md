@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-general/ecosystem/substance-for-linux.html"
 breadcrumb-title: ''
 description: 了解如何使用 Adobe 下載 Access 入口網站在 Linux 上下載、安裝及啟用 Substance 3D 應用程式。
 helpx_creative_field: ""

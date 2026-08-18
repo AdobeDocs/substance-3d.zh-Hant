@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/curvature.html"
 breadcrumb-title: ''
 description: 從網格中提取曲率資訊，製作能凸顯幾何體空洞和邊緣的貼圖。
 helpx_creative_field: ""

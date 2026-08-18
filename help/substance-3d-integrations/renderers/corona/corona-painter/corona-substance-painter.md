@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
 breadcrumb-title: ''
 description: 使用 Specular/Glossiness 工作流程和正確的轉換，匯出 Substance Painter 材質用於 Corona 渲染器。
 helpx_creative_field: ""

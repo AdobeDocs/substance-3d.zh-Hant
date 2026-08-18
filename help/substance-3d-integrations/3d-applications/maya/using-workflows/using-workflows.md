@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ''
 description: 在 Maya 中為 Substance 輸出建立並使用渲染預設，自動為不同渲染器生成著色器網路。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
 description: 在 Roblox Studio 中使用 Substance 材質，搭配 PBR 金屬粗糙度工作流程，打造沉浸式 3D 體驗。
 helpx_creative_field: ""
@@ -83,7 +83,7 @@ ht-degree: 0%
 * 進入 `templates` 目錄並點選 **「選擇資料夾」**
 * 點擊 **確定** 鍵
 * 前往 **檔案>新的>物質圖表......**
-* 請檢查該範本是否`Roblox`列在新物質圖表[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗的模板列表底部
+* 請檢查該範本是否`Roblox`列在新物質圖表[&#128279;](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗的模板列表底部
 
 </td>
 <td style="border: 0;" valign="top">
@@ -102,7 +102,7 @@ ht-degree: 0%
 
 用 Roblox 的範本做一個圖表，完成素材後再從該圖表匯出點陣圖。
 
-* 在[新物質圖](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗中，選擇範本`Roblox`
+* 在[新物質圖](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗中，選擇範本`Roblox`
 * 設定圖表的識別碼和其他參數，然後點擊 **確定**
 * 在圖表檢視[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)中處理你的材料——請參考[這裡](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)了解如何工作流程的起點
 * 完成後，請到&#x200B;**圖檢視&#x200B;*工具列中的工具 > 匯出點陣圖***

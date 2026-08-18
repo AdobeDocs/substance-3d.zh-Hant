@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/general-system-requirements.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-general/ecosystem/general-system-requirements.html"
 breadcrumb-title: ''
 description: 請檢查 Substance 3D 應用的系統需求，確保您的硬體符合最低、建議或最佳規格。
 helpx_creative_field: ""

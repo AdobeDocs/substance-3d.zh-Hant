@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
 breadcrumb-title: ''
 description: 在 Maya 中使用實體尺寸設定，將物質材質套用到真實世界尺度，以達到精確的視覺化效果。
 helpx_creative_field: ""

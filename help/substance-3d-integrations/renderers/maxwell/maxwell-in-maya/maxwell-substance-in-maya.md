@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
 breadcrumb-title: ''
 description: 在 Maya 中透過匯出的貼圖或 Substance 插件，使用 Maxwell 渲染器使用 Substance 材質。
 helpx_creative_field: ""

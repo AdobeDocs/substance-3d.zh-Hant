@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers.html"
 breadcrumb-title: ''
 description: 在你的 3D 工作流程中，使用 Substance 材質搭配 Arnold、V-Ray、Redshift 等主要渲染器。
 helpx_creative_field: ""

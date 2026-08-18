@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
 description: 在 Toolbag 2 中使用 Substance 粗糙度和金屬輸出，進行即時材質預覽與渲染。
 helpx_creative_field: ""

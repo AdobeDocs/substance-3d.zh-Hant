@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/position.html"
 breadcrumb-title: ''
 description: 計算並儲存網格幾何位置到材質中，以建立基於體積的效果和漸層遮罩。
 helpx_creative_field: ""
