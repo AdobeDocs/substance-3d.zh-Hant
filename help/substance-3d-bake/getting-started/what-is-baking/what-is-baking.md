@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html"
 breadcrumb-title: ''
 description: 了解什麼是烘焙，並學習如何將 3D 網格資訊儲存到材質檔案中，以強化你的 Substance 材質。
 helpx_creative_field: ""
@@ -10,7 +10,7 @@ helpx_tags: ""
 title: '什麼是烘焙 '
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+source-git-commit: 4ba3396472c767b16a67daa489105093a6a20871
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
-&#x200B;>> 
+>> 
 
-（來源：[Paolo Cignoni]（https://commons.wikimedia.org/wiki/File:Normal_map_example.png）- [CC BY-SA 1.0]（https://creativecommons.org/licenses/by-sa/1.0））
+（鳴謝： [ 保羅·奇尼奧尼](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)）
 
 烘焙是指將&#x200B;**與** 3D 網格&#x200B;**相關的資訊**&#x200B;儲存到&#x200B;**貼圖**&#x200B;檔案（[位圖](https://en.wikipedia.org/wiki/Raster_graphics)）中的過程名稱。大多數時候，這個過程會涉及另一個網格。 此時，第一個網格的資訊會轉移到第二個網格的 UV，然後儲存成貼圖。
 
