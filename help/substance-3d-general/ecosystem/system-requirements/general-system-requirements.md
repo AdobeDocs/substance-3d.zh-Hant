@@ -79,23 +79,23 @@ ht-degree: 1%
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-[![Substance 3D 取樣圖示](../../assets/sa-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/getting-started/system-requirements)
+[![Substance 3D 取樣圖示](../../assets/sa-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-sampler/using/getting-started/system-requirements)
 
-[Substance 3D Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/getting-started/system-requirements)
-
-</td>
-<td style="border: 0;" valign="top">
-
-[![Substance 3D Designer 圖示](../../assets/ds-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/system-requirements)
-
-[Substance 3D](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/system-requirements) [設計師](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/system-requirements)
+[Substance 3D Sampler](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-sampler/using/getting-started/system-requirements)
 
 </td>
 <td style="border: 0;" valign="top">
 
-[![Substance 3D Painter 圖示](../../assets/pt-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/system-requirements)
+[![Substance 3D Designer 圖示](../../assets/ds-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/getting-started/system-requirements)
 
-[Substance 3D Painter](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/system-requirements)
+[Substance 3D](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/getting-started/system-requirements) [設計師](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/getting-started/system-requirements)
+
+</td>
+<td style="border: 0;" valign="top">
+
+[![Substance 3D Painter 圖示](../../assets/pt-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/getting-started/system-requirements)
+
+[Substance 3D Painter](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/getting-started/system-requirements)
 
 </td>
 </tr>

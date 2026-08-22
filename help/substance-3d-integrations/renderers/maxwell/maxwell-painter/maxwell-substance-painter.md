@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 麥克斯韋 - 物質畫家
 
-Substance Painter 2020.1（6.1.0）支援 Maxwell [輸出模板，](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export) 用於金屬/粗糙度及鏡面/光澤度。 你可以直接用 Maxwell 輸出範本來匯出。\
+Substance Painter 2020.1（6.1.0）支援 Maxwell [輸出模板，](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/getting-started/export/export) 用於金屬/粗糙度及鏡面/光澤度。 你可以直接用 Maxwell 輸出範本來匯出。\
 Maxwell 5.1.0** 與 Substance Painter 有整合，讓你可以輕鬆匯入材質並自動設定 Maxwell 材質。
 
 ## 匯出貼圖

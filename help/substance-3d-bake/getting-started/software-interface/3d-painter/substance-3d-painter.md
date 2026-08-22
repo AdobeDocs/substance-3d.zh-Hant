@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-烘焙視窗可以透過貼圖集設定（Texture Set Settings[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)）進入。點擊名為「**烘焙網格貼圖**」的按鈕，即可開啟目前專案的烘焙視窗。
+烘焙視窗可以透過貼圖集設定（Texture Set Settings[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)）進入。點擊名為「**烘焙網格貼圖**」的按鈕，即可開啟目前專案的烘焙視窗。
 
 ## 概觀
 
