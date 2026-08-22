@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # 阿諾德 - 物質畫家
 
-Substance Painter 2020.1（6.1.0）附帶[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)使用 [aiStandard 材質](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)的 Arnold 輸出範本。
+Substance Painter 2020.1（6.1.0）附帶[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)使用 [aiStandard 材質](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)的 Arnold 輸出範本。
 
 ![](../../../assets/arnold-export.png){width="800px"}
 

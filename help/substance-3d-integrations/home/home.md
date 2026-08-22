@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # 生態系統與外掛
 
-[Substance 素材 sbsar 格式](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file)被所有主要遊戲及數位內容創作（DCC）工具支援。此格式以 .sbsar 檔案從 Substance 3D 應用程式發佈。 SBSAR 檔案可透過 Substance 外掛或原生整合載入支援 Substance 材質的 DCC 應用程式與遊戲引擎。
+[Substance 素材 sbsar 格式](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file)被所有主要遊戲及數位內容創作（DCC）工具支援。此格式以 .sbsar 檔案從 Substance 3D 應用程式發佈。 SBSAR 檔案可透過 Substance 外掛或原生整合載入支援 Substance 材質的 DCC 應用程式與遊戲引擎。
 
 欲了解更多如何使用這些材料，請參閱：
 

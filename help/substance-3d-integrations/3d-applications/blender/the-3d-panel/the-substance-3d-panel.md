@@ -66,7 +66,7 @@ SBSAR 檔案可以與預設一起發佈，預設可在預設下拉選單中找�
 
 輸出材質的檔案格式可以透過下拉選單切換和更改。
 
-欲了解更多資訊，請參閱 [Designer 文件頁面的「暴露參數](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) 」。
+欲了解更多資訊，請參閱 [Designer 文件頁面的「暴露參數](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) 」。
 
 ## 技術參數
 
