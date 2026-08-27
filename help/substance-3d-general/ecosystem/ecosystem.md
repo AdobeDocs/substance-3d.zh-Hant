@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-general/ecosystem.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem.html"
 breadcrumb-title: ''
 description: 探索所有 Substance 3D 應用程式中共通的資源與資訊，以提升您的工作流程。
 helpx_creative_field: ""

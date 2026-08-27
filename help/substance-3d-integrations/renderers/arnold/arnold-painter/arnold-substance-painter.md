@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
 breadcrumb-title: ''
 description: 使用 Substance Painter 的 Arnold 渲染器輸出範本，搭配 aiStandard 材質來進行物理渲染。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # 阿諾德 - 物質畫家
 
-Substance Painter 2020.1（6.1.0）附帶[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)使用 [aiStandard 材質](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)的 Arnold 輸出範本。
+Substance Painter 2020.1（6.1.0）附帶[使用 [aiStandard 材質](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)的 Arnold 輸出範本](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)。
 
 ![](../../../assets/arnold-export.png){width="800px"}
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/features/tangent-space.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/tangent-space.html"
 breadcrumb-title: ''
 description: 學習 Substance Bakers 如何處理切線空間計算，並根據您的工作流程自訂演算法。
 helpx_creative_field: ""
@@ -60,7 +60,7 @@ Substance Painter 目前不支援自訂的 Tangent Space 插件。 這表示如�
 1. 選擇 **編輯** > **偏好設定**。
 
    ![](../../assets/sd-edit-pref.png)
-1. 點擊專案&#x200B;**&#x200B;**。
+1. 點擊專案&#x200B;****。
 
    ![](../../assets/sd-pref-projects.png)
 1. 進入 **「一般** 」標籤。 往下滑直到看到 3D 場景&#x200B;**區**&#x200B;塊。

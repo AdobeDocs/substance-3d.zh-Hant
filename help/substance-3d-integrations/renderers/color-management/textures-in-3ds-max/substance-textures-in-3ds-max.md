@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
 breadcrumb-title: ''
 description: 了解 Substance 插件如何在 3ds Max 中處理材質的伽瑪設定，以確保色彩管理的正確性。
 helpx_creative_field: ""

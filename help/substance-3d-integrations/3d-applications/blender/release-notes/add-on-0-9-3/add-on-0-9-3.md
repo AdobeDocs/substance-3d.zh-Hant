@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3.html"
 breadcrumb-title: ''
 description: 請參閱 Blender 附加元件 0.9.3 版本的發布說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""

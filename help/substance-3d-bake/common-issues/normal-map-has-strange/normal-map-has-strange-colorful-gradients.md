@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
 breadcrumb-title: ''
 description: 透過檢查網格法線、平滑群組和 UV 映射，修正法線貼圖中奇怪的彩色漸層。
 helpx_creative_field: ""

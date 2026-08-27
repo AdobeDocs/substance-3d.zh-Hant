@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/live-link-in-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/live-link-in-ue4.html"
 breadcrumb-title: ''
 description: 在 Unreal Engine 4 使用 Live Link，可以即時同步 Painter 和 UE4 之間的 Substance 材質。
 helpx_creative_field: ""

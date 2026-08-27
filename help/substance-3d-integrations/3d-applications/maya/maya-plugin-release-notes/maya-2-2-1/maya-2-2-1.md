@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-2-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-2-1.html"
 breadcrumb-title: ''
 description: 查看 Maya 外掛 2.2.1 版本的發布說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""

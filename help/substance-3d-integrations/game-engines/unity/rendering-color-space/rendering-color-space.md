@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
 breadcrumb-title: ''
 description: 請設定 Unity 的色彩空間設定，以確保 Substance 材質能以實體為基礎的著色器正確呈現。
 helpx_creative_field: ""

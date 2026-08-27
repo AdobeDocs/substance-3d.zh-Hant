@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
 breadcrumb-title: ''
 description: 在執行時使用 Unreal Engine 5 的 Blueprint 節點來更改 Substance 材質參數，以進行動態材質控制。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 更改浮點參數：
 
-你會使用 [Set Input Float 節點](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html) 來更改浮點點數、color（float4） 和布林物質參數。
+你會使用 [Set Input Float 節點](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html) 來更改浮點點數、color（float4） 和布林物質參數。
 
 1. 建立一個變數，並以「Substance Graph Instance」為參考。\
    \**要做到這點，可以在我的藍圖標籤頁加一個變數並命名它。 在下拉選單中搜尋 Substance Graph 實例>物件參考。 將變數拖曳到圖中，選擇取得（變數名稱）。 在細節標籤的預設值區塊中設定 Substance Graph 實例。*

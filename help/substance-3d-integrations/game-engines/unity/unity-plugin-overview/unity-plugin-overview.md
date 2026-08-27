@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
 breadcrumb-title: ''
 description: 了解 Unity 的 Substance 3D 外掛，包括版本支援、功能及整合能力。
 helpx_creative_field: ""
@@ -43,7 +43,7 @@ Adobe Substance 3D for Unity 插件版本 3.0.0 目前支援 Unity 2020 LTS 及�
 >
 > **法線貼圖轉換**
 > 
-> Unity 中的 Substance 插件會自動將 DirectX 轉換成 OpenGL。 使用Substance Source[&#128279;](https://source.substance3d.com/)的材質時，不需要將法線方向改成OGL。如果你在 Substance Designer 裡自己製作材質，務必使用預設的 DirectX 著色器，因為外掛會自動處理正常的轉換。 欲了解更多資訊，請參閱「在 Unity 中處理法線」相關資訊。
+> Unity 中的 Substance 插件會自動將 DirectX 轉換成 OpenGL。 使用Substance Source](https://source.substance3d.com/)的[材質時，不需要將法線方向改成OGL。如果你在 Substance Designer 裡自己製作材質，務必使用預設的 DirectX 著色器，因為外掛會自動處理正常的轉換。 欲了解更多資訊，請參閱「在 Unity 中處理法線」相關資訊。
 
 ## 參數變更
 

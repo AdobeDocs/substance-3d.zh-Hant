@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/common-issues/black-shading-cross-are-visible-on-the-mesh-surface.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/black-shading-cross-are-visible-on-the-mesh-surface.html"
 breadcrumb-title: ''
 description: 透過修正切線空間和法線計算，修正網格表面上可見的黑色著色瑕疵。
 helpx_creative_field: ""

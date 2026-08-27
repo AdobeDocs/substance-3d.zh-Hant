@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/modo/parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/parameters.html"
 breadcrumb-title: ''
 description: 透過 MODO 的物質屬性面板修改物質材料參數以自訂材料。
 helpx_creative_field: ""

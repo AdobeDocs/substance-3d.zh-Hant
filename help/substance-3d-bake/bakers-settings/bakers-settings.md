@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings.html"
 breadcrumb-title: ''
 description: 探索所有可用的烘焙器設定，並學習如何設定每種烘焙器類型以達到最佳的紋理生成效果。
 helpx_creative_field: ""

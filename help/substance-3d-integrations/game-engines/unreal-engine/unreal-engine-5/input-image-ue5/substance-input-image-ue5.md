@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
 breadcrumb-title: ''
 description: 在 Unreal Engine 5 中，使用影像材質作為 Substance 材質的輸入參數，來建立模組化材質。
 helpx_creative_field: ""

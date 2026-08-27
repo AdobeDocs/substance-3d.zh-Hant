@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-2-7-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-2-7-3.html"
 breadcrumb-title: ''
 description: 請參閱 MODO 外掛 2.7.3 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""

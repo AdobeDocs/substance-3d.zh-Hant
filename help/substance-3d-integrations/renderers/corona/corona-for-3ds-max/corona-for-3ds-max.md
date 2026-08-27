@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/corona/corona-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona/corona-for-3ds-max.html"
 breadcrumb-title: ''
 description: 在 3ds Max 中使用 Substance 材質搭配 Corona 渲染器，使用鏡面/光澤處理流程和所需的貼圖。
 helpx_creative_field: ""

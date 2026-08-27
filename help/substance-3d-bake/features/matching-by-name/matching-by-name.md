@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: 使用「按名稱匹配」功能來隔離低多邊形與高多邊形網格，並防止烘焙時幾何體滲出。
 helpx_creative_field: ''
@@ -79,7 +79,7 @@ Matching By Name 是一種過濾方法，可用於 Substance Bakers 根據名稱
 
 ### 啟用姓名配對
 
-可在 Baker 設定的 Common Parameters（共用參數[&#128279;](../../bakers-settings/common-parameters/common-parameters.md)）中啟用 Matching By Name：
+可在 Baker 設定的 Common Parameters（共用參數](../../bakers-settings/common-parameters/common-parameters.md)）中啟用 [Matching By Name：
 
 | *軟體* | *設定設定* |
 | --- | --- |
@@ -90,8 +90,8 @@ Matching By Name 是一種過濾方法，可用於 Substance Bakers 根據名稱
 
 預設後綴為 \_low 和 \_high，且可透過以下方式更改：
 
-* **Substance Painter**：在烘焙視窗[&#128279;](../../getting-started/software-interface/3d-painter/substance-3d-painter.md)中，在常見參數範圍內。
-* **Substance Designer**：在 [專案設定](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/workspace/preferences/project-settings)中，烘焙設定下。
+* **Substance Painter**：在烘焙視窗](../../getting-started/software-interface/3d-painter/substance-3d-painter.md)中[，在常見參數範圍內。
+* **Substance Designer**：在 [專案設定](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)中，烘焙設定下。
 
 ## zBrush 的高多邊形網格
 

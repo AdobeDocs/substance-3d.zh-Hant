@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/cinema-4d/using-the-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/using-the-substance-plugin.html"
 breadcrumb-title: ''
 description: 學習如何在 Cinema 4D 中使用 Substance 插件來匯入材質並管理 Substance 資產。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-definition-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-definition-ue4.html"
 breadcrumb-title: ''
 description: 在 Unreal Engine 4 中用 Substance 材質建立材質實例定義，以優化 GPU 渲染效能。
 helpx_creative_field: ""
@@ -43,4 +43,4 @@ ht-degree: 0%
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/03-6?$png$&jpegSize=200&wid=1011){width="800px"}
 
-你現在有一個 UE4 材質實例，使用特定的 Substance 材質集合。 這是在 UE4 專案中處理多種物質的更優化方式。 想了解如何使用藍圖建立 MID，請查看此頁面。 [Blueprint（UE4）：動態材質實例](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+你現在有一個 UE4 材質實例，使用特定的 Substance 材質集合。 這是在 UE4 專案中處理多種物質的更優化方式。 想了解如何使用藍圖建立 MID，請查看此頁面。 [Blueprint（UE4）：動態材質實例](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)

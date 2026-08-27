@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
 breadcrumb-title: ''
 description: 在 Unreal Engine 5 中用 Substance 材質建立材質實例定義，以優化 GPU 渲染效能。
 helpx_creative_field: ""
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](../../../../assets/screen-shot-2022-03-31-at-6-13-18-pm.png)
 
-你現在有一個 UE5 材質實例，使用特定的物質貼圖集合。 這是在 UE5 專案中處理多種物質的更優化方式。 想了解如何使用 Blueprint 建立 MID，請查看此頁面。 [Blueprint（UE5）：動態材質實例](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+你現在有一個 UE5 材質實例，使用特定的物質貼圖集合。 這是在 UE5 專案中處理多種物質的更優化方式。 想了解如何使用 Blueprint 建立 MID，請查看此頁面。 [Blueprint（UE5）：動態材質實例](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)

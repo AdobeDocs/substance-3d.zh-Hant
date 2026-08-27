@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/guides/triangulating-before-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/triangulating-before-baking.html"
 breadcrumb-title: ''
 description: 了解網格三角測量如何影響烘焙結果，並學習準備幾何體的最佳實務。
 helpx_creative_field: ""

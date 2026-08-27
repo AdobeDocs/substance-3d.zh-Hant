@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
 breadcrumb-title: ''
 description: 了解為什麼 Matching by Name 無法與環境遮蔽和厚度烘焙器搭配，並尋找替代方案。
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **問題**
 > 
-> 我在常用參數[&#128279;](../../bakers-settings/common-parameters/common-parameters.md)中啟用了「按名稱[&#128279;](../../features/matching-by-name/matching-by-name.md)匹配」來篩選和排序低多邊形和高多邊形網格，為什麼環境遮蔽烘焙器會忽略它？
+> 我在常用參數](../../bakers-settings/common-parameters/common-parameters.md)中啟用[了「按名稱[](../../features/matching-by-name/matching-by-name.md)匹配」來篩選和排序低多邊形和高多邊形網格，為什麼環境遮蔽烘焙器會忽略它？
 
 >[!NOTE]
 >

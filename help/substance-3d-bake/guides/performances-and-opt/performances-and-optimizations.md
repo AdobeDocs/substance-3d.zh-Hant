@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: 學習如何優化硬體配置和網格準備，以提升烘焙速度。
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ ht-degree: 0%
 * 當用環境遮蔽烘焙器烘烤密集網格時
 * 當使用 DXR 加速烘焙器，搭配非常密集的高多邊形網格（超過 6,000 萬個三角形）時，
 
-你可以在這裡找到更多關於 TDR 的資訊和如何修改其相關設定的步驟指南： [GPU 驅動程式在長時間計算時當機（TDR 當機）](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+你可以在這裡找到更多關於 TDR 的資訊和如何修改其相關設定的步驟指南： [GPU 驅動程式在長時間計算時當機（TDR 當機）](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

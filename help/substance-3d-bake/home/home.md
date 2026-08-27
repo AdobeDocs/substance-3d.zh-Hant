@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance Bakers 將基於網格的資訊計算成貼圖檔案，並提升你的貼圖工作流程。
 helpx_creative_field: ""
@@ -122,7 +122,7 @@ ht-degree: 2%
 ### 常見問題
 
 * [UV 接縫上的鋸齒現象](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [Baker 輸出為全黑或為空](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [Baker 輸出為全黑或為空](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 * [用 Mesh 的 Color Map 烘焙失敗](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [黑色陰影十字架可見於網格表面](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [網狀零件會彼此滲出](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)

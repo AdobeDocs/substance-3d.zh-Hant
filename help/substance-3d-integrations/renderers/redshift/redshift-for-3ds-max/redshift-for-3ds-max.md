@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/redshift/redshift-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-for-3ds-max.html"
 breadcrumb-title: ''
 description: 在 3ds Max 中透過匯出的地圖或 Substance 插件，使用 Substance 材質搭配 Redshift 渲染器。
 helpx_creative_field: ""

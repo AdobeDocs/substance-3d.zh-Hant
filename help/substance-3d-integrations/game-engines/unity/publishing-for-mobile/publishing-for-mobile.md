@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
 breadcrumb-title: ''
 description: 在 Unity 中調整設定與材質解析度，優化行動平台的 Substance 材質。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/c-example-script.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/c-example-script.html"
 breadcrumb-title: ''
 description: 範例 C# 腳本示範如何使用已棄用的 Substance Unity API 進行參數變更。
 helpx_creative_field: ""

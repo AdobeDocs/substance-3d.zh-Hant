@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
 breadcrumb-title: ''
 description: 學習 Blender 中 Substance 3D 外掛的快捷鍵，並自訂按鍵設定以提高效率。
 helpx_creative_field: ""

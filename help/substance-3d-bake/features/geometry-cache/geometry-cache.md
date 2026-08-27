@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/features/geometry-cache.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/geometry-cache.html"
 breadcrumb-title: ''
 description: 使用幾何快取來保存預處理的網格資料，並大幅加快後續烘焙作業。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting.html"
 breadcrumb-title: ''
 description: 使用 Substance Unreal Engine 4 腳本 API 來程式化管理你的專案中的 Substance 材質。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/ambient-occlusion.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion.html"
 breadcrumb-title: ''
 description: 學習如何使用環境遮蔽烘焙器，利用快速的 GPU 加速演算法生成環境陰影紋理。
 helpx_creative_field: ""

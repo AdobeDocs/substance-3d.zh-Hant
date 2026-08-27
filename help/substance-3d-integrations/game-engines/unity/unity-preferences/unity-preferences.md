@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/unity-preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-preferences.html"
 breadcrumb-title: ''
 description: 在 Unity 中設定 Substance 3D 插件偏好設定，以自訂插件的行為和設定。
 helpx_creative_field: ""

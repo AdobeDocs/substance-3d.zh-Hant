@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5.html"
 breadcrumb-title: ''
 description: 在 Unreal Engine 5 中，使用實體尺寸設定根據真實世界的尺寸來縮放物質材質。
 helpx_creative_field: ""

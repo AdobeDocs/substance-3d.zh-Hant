@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
 breadcrumb-title: ''
 description: 學習如何在 Blender 中使用 Substance 3D 面板來管理材質、參數和輸出。
 helpx_creative_field: ""
@@ -66,7 +66,7 @@ SBSAR 檔案可以與預設一起發佈，預設可在預設下拉選單中找�
 
 輸出材質的檔案格式可以透過下拉選單切換和更改。
 
-欲了解更多資訊，請參閱 [Designer 文件頁面的「暴露參數](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) 」。
+欲了解更多資訊，請參閱 [Designer 文件頁面的「暴露參數](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter) 」。
 
 ## 技術參數
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/getting-started/tutorials.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/tutorials.html"
 breadcrumb-title: ''
 description: 取得教學與學習資源，精通Substance Bakers並提升你的紋理烘焙工作流程。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ## 物質學院
 
-Substance Academy[&#128279;](https://academy.allegorithmic.com/search?q=bake) 上有許多教學。根據主題不同，難度不同。
+Substance Academy](https://academy.allegorithmic.com/search?q=bake) 上有[許多教學。根據主題不同，難度不同。
 
 ## 官方教學
 

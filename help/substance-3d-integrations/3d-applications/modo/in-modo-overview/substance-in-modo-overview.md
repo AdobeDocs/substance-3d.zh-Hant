@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
 breadcrumb-title: ''
 description: 了解 MODO 的 Substance 外掛，以及如何在工作流程中匯入和使用 Substance 材質。
 helpx_creative_field: ""
