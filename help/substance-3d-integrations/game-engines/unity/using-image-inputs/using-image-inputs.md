@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
 breadcrumb-title: ''
 description: 在 Unity 中，使用影像材質作為 Substance 材質的輸入參數，以強化材質自訂。
 helpx_creative_field: ""

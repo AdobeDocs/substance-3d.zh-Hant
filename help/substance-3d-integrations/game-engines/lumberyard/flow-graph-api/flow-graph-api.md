@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
 breadcrumb-title: ''
 description: 在 Lumberyard 中使用 Flow Graph 節點，以程式化方式設定程序化材質設定。
 helpx_creative_field: ""

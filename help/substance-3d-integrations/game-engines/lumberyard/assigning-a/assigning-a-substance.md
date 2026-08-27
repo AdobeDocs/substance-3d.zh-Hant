@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
 breadcrumb-title: ''
 description: 像其他材料一樣，使用材質編輯器將物質材質指派到木材場的物件上。
 helpx_creative_field: ""

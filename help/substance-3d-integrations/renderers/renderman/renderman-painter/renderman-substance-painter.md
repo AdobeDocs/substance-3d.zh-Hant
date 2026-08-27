@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
 breadcrumb-title: ''
 description: 使用 pxrSurface 材質及正確的輸出轉換，匯出 Renderman 的 Substance Painter 貼圖。
 helpx_creative_field: ""

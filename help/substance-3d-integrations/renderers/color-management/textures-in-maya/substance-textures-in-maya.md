@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
 breadcrumb-title: ''
 description: 在 Maya 中為 Substance 材質設定色彩空間，以確保色彩管理與渲染的準確度。
 helpx_creative_field: ""

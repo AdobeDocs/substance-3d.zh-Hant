@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
 breadcrumb-title: ''
 description: 了解如何用 Substance 材質升級 Unity 專案，以及遷移過程中已知要避免的問題。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/modo.html"
 breadcrumb-title: ''
 description: 安裝並使用 MODO 的 Substance 外掛，將 Substance 材質匯入並處理你的 3D 專案。
 helpx_creative_field: ""

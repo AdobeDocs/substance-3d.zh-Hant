@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-general/ecosystem/substance-for-linux.html"
 breadcrumb-title: ''
 description: 了解如何使用 Adobe 下載 Access 入口網站在 Linux 上下載、安裝及啟用 Substance 3D 應用程式。
 helpx_creative_field: ""
@@ -75,6 +75,6 @@ ht-degree: 0%
 1. 將解壓縮的授權金鑰檔案放到共用掛載網路上。
 1. 在使用者的電腦上，依照以下頁面說明，設定一個指向授權金鑰檔案的環境變數：
 
-   * Substance 3D 畫家 - <https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
-   * Substance 3D 設計師 - <https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
-   * 物質3D取樣器 - <https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>
+   * Substance 3D 畫家 - <https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
+   * Substance 3D 設計師 - <https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
+   * 物質3D取樣器 - <https://experienceleague.adobe.com/zh-hant/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>

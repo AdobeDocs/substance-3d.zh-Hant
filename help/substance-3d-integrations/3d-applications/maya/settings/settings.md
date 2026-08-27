@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/settings.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya/settings.html"
 breadcrumb-title: ''
 description: 透過 Substance Shelf 或選單在 Maya 中設定 Substance 插件的設定，以自訂行為。
 helpx_creative_field: ""

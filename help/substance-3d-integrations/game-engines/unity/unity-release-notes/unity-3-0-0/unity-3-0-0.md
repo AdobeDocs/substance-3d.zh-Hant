@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0.html"
 breadcrumb-title: ''
 description: 請參閱 Unity 外掛 3.0.0 版本的發布說明，了解新功能、改進與變更。
 helpx_creative_field: ""

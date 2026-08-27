@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-plugin-default-templates.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-plugin-default-templates.html"
 breadcrumb-title: ''
 description: 了解 Substance 3D 外掛為 Unreal Engine 5 工作流程提供的預設材質範本。
 helpx_creative_field: ""

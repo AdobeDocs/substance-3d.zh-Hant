@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
 breadcrumb-title: ''
 description: 學習如何正確移除 Unity 專案中的 Substance 3D 外掛並清理相關檔案。
 helpx_creative_field: ""

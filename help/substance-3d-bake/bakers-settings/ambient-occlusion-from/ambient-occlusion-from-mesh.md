@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
 breadcrumb-title: ''
 description: 利用光線追蹤技術從高多邊形網格烘焙出精確的環境遮蔽紋理，以提升真實感。
 helpx_creative_field: ""

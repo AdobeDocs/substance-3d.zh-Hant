@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
 breadcrumb-title: ''
 description: 透過將錯過的光線轉換成灰階二進位影像來產生不透明度遮罩，以產生透明效果。
 helpx_creative_field: ""
