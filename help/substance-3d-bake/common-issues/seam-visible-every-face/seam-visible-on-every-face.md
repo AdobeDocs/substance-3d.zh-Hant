@@ -34,7 +34,7 @@ ht-degree: 0%
 > 
 > 如果沒有使用 [籠子](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html)，烘焙過程會朝著低多邊形網格頂點法線方向發射光線。 如果每個頂點法線都被分割（也就是每個面和鄰面沒有相同的頂點法線），那麼光線在邊上就不會朝同一個方向傳送。 這會導致分裂，因為邊兩側的資訊不同。
 > 
-> 這個問題還會因為鋸齒而加劇，正如本頁](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)所解釋[的。
+> 這個問題還會因為鋸齒而加劇，正如本頁[&#128279;](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)所解釋的。
 
 >[!NOTE]
 >

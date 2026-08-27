@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 資產商店
 
-Unity 版 Adobe Substance 3D 可在 Unity 資產商店](https://assetstore.unity.com/packages/tools/utilities/substance-3d-for-unity-beta-213208)取得[。外掛會被加入你的專案，在 Assets 資料夾裡。
+Unity 版 Adobe Substance 3D 可在 Unity 資產商店[&#128279;](https://assetstore.unity.com/packages/tools/utilities/substance-3d-for-unity-beta-213208)取得。外掛會被加入你的專案，在 Assets 資料夾裡。
 
 ## 套件管理器
 

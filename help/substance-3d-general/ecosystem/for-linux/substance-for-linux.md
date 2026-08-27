@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 部署指南
 
-透過企業合約購買 Substance 3D for Linux® 後，相應的產品與授權會在 Adobe 下載存取（ADA）](https://download-access.adobe.com/lws/downloads)入口網站上提供[。你需要同時下載軟體編譯檔和 ADA 的授權金鑰檔案，才能成功部署軟體。
+透過企業合約購買 Substance 3D for Linux® 後，相應的產品與授權會在 Adobe 下載存取（ADA）[&#128279;](https://download-access.adobe.com/lws/downloads)入口網站上提供。你需要同時下載軟體編譯檔和 ADA 的授權金鑰檔案，才能成功部署軟體。
 
 ## 下載軟體編譯版與授權金鑰檔案：
 

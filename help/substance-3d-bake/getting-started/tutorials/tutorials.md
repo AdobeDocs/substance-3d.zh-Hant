@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ## 物質學院
 
-Substance Academy](https://academy.allegorithmic.com/search?q=bake) 上有[許多教學。根據主題不同，難度不同。
+Substance Academy[&#128279;](https://academy.allegorithmic.com/search?q=bake) 上有許多教學。根據主題不同，難度不同。
 
 ## 官方教學
 

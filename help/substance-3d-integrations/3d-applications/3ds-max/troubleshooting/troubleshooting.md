@@ -22,7 +22,7 @@ ht-degree: 1%
 
 腳本監聽器可用來診斷使用外掛時遇到的錯誤。 要開啟腳本監聽器，請進入腳本選單>腳本聽取器。 當外掛使用過程中發生錯誤時，對應的錯誤訊息會印到這個腳本監聽器視窗。 欲知更多資訊，請造訪 [官方劇本編輯文件](https://help.autodesk.com/view/3DSMAX/2023/ENU/?guid=GUID-C8019A8A-207F-48A0-985E-18D47FAD8F36) 。
 
-若要回報錯誤，請加入 Substance Discord 伺服器的 [#3dsmax-plugin 頻道，或造訪 [Adobe 社群](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-autodesk3dsmax)。](https://discord.com/invite/substance3d)主控台日誌中的相關資訊及任何重複步驟可納入報告中。
+若要回報錯誤，請加入 Substance Discord 伺服器的 [&#128279;](https://discord.com/invite/substance3d)#3dsmax-plugin 頻道，或造訪 [Adobe 社群](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-autodesk3dsmax)。主控台日誌中的相關資訊及任何重複步驟可納入報告中。
 
 ## 已知問題
 
