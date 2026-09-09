@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
-（鳴謝： [ 保羅·奇尼奧尼](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)）
+（鳴謝： [&#x200B; 保羅·奇尼奧尼](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)）
 
 烘焙是指將&#x200B;**與** 3D 網格&#x200B;**相關的資訊**&#x200B;儲存到&#x200B;**貼圖**&#x200B;檔案（[位圖](https://en.wikipedia.org/wiki/Raster_graphics)）中的過程名稱。大多數時候，這個過程會涉及另一個網格。 此時，第一個網格的資訊會轉移到第二個網格的 UV，然後儲存成貼圖。
 
