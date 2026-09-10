@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 弗雷
 
-用 Vray 渲染時，可以用 Substance Painter 匯出的貼圖，或是 Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) 或 [3ds Max](https://www.substance3d.com/ecosystem-plug-ins/substance-in-3ds-max/) 裡[的 Substance 插件。
+用 Vray 渲染時，可以用 Substance Painter 匯出的貼圖，或是 Maya[&#128279;](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) 或 [3ds Max](https://www.substance3d.com/ecosystem-plug-ins/substance-in-3ds-max/) 裡的 Substance 插件。
 
 Substance Painter 2020.1（6.1.0）內建 VrayMtl 著色器，支援金屬與鏡面工作流程，並透過 Vray Next [Output 範本](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export)支援 Vray。
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 麥克斯韋
 
-用 Maxwell](https://maxwellrender.com/) 渲染[時，你可以用 Substance Painter 匯出的貼圖，或是 Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) 裡[的 Substance 插件。
+用 Maxwell[&#128279;](https://maxwellrender.com/) 渲染[時，你可以用 Substance Painter 匯出的貼圖，或是 Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) 裡的 Substance 插件。
 
 Substance Painter 2020.1（6.1.0）附帶 Maxwell [輸出模板](https://docs.substance3d.com/display/SPDOC/Export) ，適用於金屬/粗糙度及鏡面/光澤度，適用於 **Maxwell 5.1.0**。
 

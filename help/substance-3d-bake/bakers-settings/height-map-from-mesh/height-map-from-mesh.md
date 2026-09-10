@@ -30,5 +30,5 @@ mesh baker 的 Height Map 允許你從高多邊形網格建立高度圖。**提�
 
 | *參數* | *描述* |
 | --- | --- |
-| ****正規化**** | 定義了如何將數值的高度範圍儲存到貼圖中。可能的數值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>相對於光線距離</strong>：</li><li data-preserve-html="true"><strong>相對於低多邊形網格（每個 UV 圖塊）（</strong> 預設值）</li><li data-preserve-html="true"><strong>相對於最小/最大值（每個UV圖塊）</strong></li><li data-preserve-html="true"><strong>手排</strong></li></ul> |
+| **&#x200B;**&#x200B;正規化&#x200B;**&#x200B;** | 定義了如何將數值的高度範圍儲存到貼圖中。可能的數值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>相對於光線距離</strong>：</li><li data-preserve-html="true"><strong>相對於低多邊形網格（每個 UV 圖塊）（</strong> 預設值）</li><li data-preserve-html="true"><strong>相對於最小/最大值（每個UV圖塊）</strong></li><li data-preserve-html="true"><strong>手排</strong></li></ul> |
 | **縮放除子** | 定義高度值應該乘多少或除多少。只有當 **正規化** 設定為 **手動**&#x200B;時才可用。 |

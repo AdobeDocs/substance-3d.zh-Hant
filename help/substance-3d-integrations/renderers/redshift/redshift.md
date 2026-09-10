@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 紅移
 
-Redshift 材質在 2.5.43 版本中支援金屬工作流程。 用 Redshift 渲染時，你可以用 Substance Painter 匯出的貼圖，或是 Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) 裡[的 Substance 插件。
+Redshift 材質在 2.5.43 版本中支援金屬工作流程。 用 Redshift 渲染時，你可以用 Substance Painter 匯出的貼圖，或是 Maya[&#128279;](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) 裡的 Substance 插件。
 
 Substance Painter 2020.1 （6.1.0） 附帶 Redshift （[rsMaterial](https://docs.redshift3d.com/display/RSDOCS/Material)） [輸出範本](https://docs.substance3d.com/display/SPDOC/Export) ，以及 Redshift 3 的舊有輸出。
 

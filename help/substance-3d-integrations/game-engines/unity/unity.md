@@ -56,7 +56,7 @@ ht-degree: 0%
 * [移除 Substance 插件](../../game-engines/unity/removing-plugin/removing-substance-plugin.md)
 * [Unity 中的 Substance 3D 教學](../../game-engines/unity/3d-in-unity-tutorials/substance-3d-in-unity-tutorials.md)
 * [Unity 中的實體尺寸](../../game-engines/unity/physical-size-in-unity/physical-size-in-unity.md)
-* [專案間共享 sbsar 檔案](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html)[](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
+* [專案間共享 sbsar 檔案](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html) [&#128279;](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
 
 **[已找到表格 - 需規則]**
 

@@ -31,7 +31,7 @@ Adobe 與 Maxon 合作，將 Substance 3D 與 Maxon One 的優秀 3D 設計與�
 
 ## 一次價值巨大的購買
 
-Maxon One 與 Substance 3D 套裝可在 Maxon 官網](https://www.maxon.net/en/)購買[。該套裝包括：
+Maxon One 與 Substance 3D 套裝可在 Maxon 官網[&#128279;](https://www.maxon.net/en/)購買。該套裝包括：
 
 * Maxon One 裡的所有工具。
 * Adobe Substance 3D 收藏中的所有工具。
