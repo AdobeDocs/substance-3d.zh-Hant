@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux/faq.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-general/ecosystem/substance-for-linux/faq.html"
 breadcrumb-title: ''
 description: 透過 Adobe 下載 Access 入口網站，找到關於管理 Substance 3D 授權及存取軟體的常見問題解答。
 helpx_creative_field: ""
@@ -97,7 +97,7 @@ ADA入口網站是你管理執照與證照的集中平台。 透過ADA入口網�
 
 
 
-如果您遇到其他類型的錯誤，請 [聯絡我們的企業支援](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)。
+如果您遇到其他類型的錯誤，請 [聯絡我們的企業支援](https://helpx.adobe.com/tw/enterprise/using/support-for-enterprise.html)。
 
 
 
@@ -118,20 +118,20 @@ ADA入口網站是你管理執照與證照的集中平台。 透過ADA入口網�
 
 * 點擊搜尋。
 
-[更多關於LWS的資訊請見此](https://helpx.adobe.com/x-productkb/policy-pricing/volume-licensing-site.html)處。
+[更多關於LWS的資訊請見此](https://helpx.adobe.com/tw/x-productkb/policy-pricing/volume-licensing-site.html)處。
 
 
 
 +++
 
 +++如果我需要更多幫助，該聯絡誰？
-如果您需要進一步協助，可以聯繫我們的企業支援團隊。 你的管理員需要 [登入 Adobe 管理控制台並開啟支援案件](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)。
+如果您需要進一步協助，可以聯繫我們的企業支援團隊。 你的管理員需要 [登入 Adobe 管理控制台並開啟支援案件](https://helpx.adobe.com/tw/enterprise/using/support-for-enterprise.html)。
 
 如果你需要進一步協助，可以聯絡你的 Adobe 客服經理。
 
 +++
 
 +++我無法用 ADA 的授權金鑰檔案啟用軟體。
-[詳細的啟動說明可在此](../../../ecosystem/for-linux/substance-for-linux.md)取得。 如果這些方法仍無法解決問題，請 [聯絡企業支援團隊](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)。
+[詳細的啟動說明可在此](../../../ecosystem/for-linux/substance-for-linux.md)取得。 如果這些方法仍無法解決問題，請 [聯絡企業支援團隊](https://helpx.adobe.com/tw/enterprise/using/support-for-enterprise.html)。
 
 +++

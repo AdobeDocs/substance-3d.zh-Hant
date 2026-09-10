@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
 description: 在 Roblox Studio 中使用 Substance 材質，搭配 PBR 金屬粗糙度工作流程，打造沉浸式 3D 體驗。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## Substance 3D Designer 範本
 
-要為 Roblox 製作貼圖，你可以使用下方的 Substance 3D 檔案作為 [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home) 中的 [Substance 合成圖表範本](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs)。
+要為 Roblox 製作貼圖，你可以使用下方的 Substance 3D 檔案作為 [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home) 中的 [Substance 合成圖表範本](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs)。
 
 [![SBS 檔案格式圖示的圖片，連結到 Roblox 範本。](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
@@ -78,12 +78,12 @@ ht-degree: 0%
 然後，讓設計師 *監控* 模板資料夾，尋找圖表範本。
 
 * 在 Designer 裡，請到 **編輯>偏好設定...**
-* 在 [偏好設定](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/preferences-window) 視窗中，請前往 **「專案」>「使用者專案」>「一般」**
+* 在 [偏好設定](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/workspace/preferences/preferences-window) 視窗中，請前往 **「專案」>「使用者專案」>「一般」**
 * 在 **範本目錄** 列表中，點擊 **+** 鍵
 * 進入 `templates` 目錄並點選 **「選擇資料夾」**
 * 點擊 **確定** 鍵
 * 前往 **檔案>新的>物質圖表......**
-* 請檢查該範本是否`Roblox`列在新物質圖表[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗的模板列表底部
+* 請檢查該範本是否`Roblox`列在新物質圖表[&#128279;](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗的模板列表底部
 
 </td>
 <td style="border: 0;" valign="top">
@@ -102,11 +102,11 @@ ht-degree: 0%
 
 用 Roblox 的範本做一個圖表，完成素材後再從該圖表匯出點陣圖。
 
-* 在[新物質圖](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗中，選擇範本`Roblox`
+* 在[新物質圖](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)視窗中，選擇範本`Roblox`
 * 設定圖表的識別碼和其他參數，然後點擊 **確定**
-* 在圖表檢視[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)中處理你的材料——請參考[這裡](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)了解如何工作流程的起點
+* 在圖表檢視[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)中處理你的材料——請參考[這裡](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/getting-started/workflow-overview)了解如何工作流程的起點
 * 完成後，請到&#x200B;**圖檢視&#x200B;*工具列中的工具 > 匯出點陣圖***
-* 在[匯出點陣](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps)圖視窗中，設定有效的&#x200B;**目的地**&#x200B;路徑，確保&#x200B;*所有*&#x200B;輸出都已&#x200B;**&#x200B;勾選，然後點選&#x200B;**&#x200B;匯出**
+* 在[匯出點陣](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps)圖視窗中，設定有效的&#x200B;**目的地**&#x200B;路徑，確保&#x200B;*所有*&#x200B;輸出都已&#x200B;**&#x200B;勾選，然後點選&#x200B;**&#x200B;匯出**
 * 檢查貼圖是否正確匯出到 **目的地** 路徑
 
 </td>

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
 description: 在 MODO 中設定法線貼圖方向設定，以確保 Substance 材質的法線貼圖渲染正確。
 helpx_creative_field: ""

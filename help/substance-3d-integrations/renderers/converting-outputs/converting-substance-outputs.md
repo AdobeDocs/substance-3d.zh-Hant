@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/converting-substance-outputs.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/converting-substance-outputs.html"
 breadcrumb-title: ''
 description: 學習如何將 Substance 材質的輸出轉換成符合不同渲染器需求和工作流程的做法。
 helpx_creative_field: ""

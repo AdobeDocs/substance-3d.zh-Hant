@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
 breadcrumb-title: ''
 description: 利用光線追蹤從高多邊形網格生成精確的曲率紋理，以達到精準的邊緣偵測。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/cycles-and-eevee.html"
 breadcrumb-title: ''
 description: 透過匯出的地圖或 Substance 附加元件，搭配 Blender 的 Cycles 和 Eevee 渲染器使用 Substance 材質。
 helpx_creative_field: ""

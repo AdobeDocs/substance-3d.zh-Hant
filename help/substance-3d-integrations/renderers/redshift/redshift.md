@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/redshift.html"
 breadcrumb-title: ''
 description: 在 Maya 和 3ds Max 中使用 Substance 材質搭配 Redshift 渲染器，並支援金屬工作流程。
 helpx_creative_field: ""

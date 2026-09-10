@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
 description: 直接在 Maverick 渲染器中使用 Substance 的 SBSAR 檔案，進行即時材質編輯與參數控制。
 helpx_creative_field: ""

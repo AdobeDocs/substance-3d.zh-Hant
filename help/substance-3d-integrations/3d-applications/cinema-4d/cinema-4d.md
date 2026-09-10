@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/cinema-4d.html"
 breadcrumb-title: ''
 description: 安裝並使用 Cinema 4D 的 Substance 外掛，匯入並操作 Substance 材質到你的專案中。
 helpx_creative_field: ""

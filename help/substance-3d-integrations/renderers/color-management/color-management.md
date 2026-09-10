@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/color-management.html"
 breadcrumb-title: ''
 description: 在使用 Substance 材質搭配不同渲染器時，了解色彩管理與伽瑪校正。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 色彩管理
 
-本文件的目的是詳細說明如何處理從 **Substance Painter** 和 **Substance Designer** 匯出的材質，並以 3D 軟體[&#128279;](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)及渲染器進行處理。
+本文件的目的是詳細說明如何處理從 **Substance Painter** 和 **Substance Designer** 匯出的材質，並以 3D 軟體[&#128279;](https://www.adobe.com/tw/products/substance3d/3d-augmented-reality.html)及渲染器進行處理。
 
 正確解讀作為材質通道輸入的影像，取決於該影像在場景中的使用方式。 色彩空間、編碼，以及色彩值是否與&#x200B;**場景參考亮度**&#x200B;**或顯示**&#x200B;亮度成正比，也扮演重要角色。
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
 description: 使用輸出範本和適當的工作流程設定，匯出 V-Ray Next 渲染器的 Substance Painter 材質。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Substance Painter 2020.1（6.1.0）內建 [VrayMtl](https://docs.chaosgroup.com/
 
 >[!NOTE]
 >
-> 如果你的專案設定成使用 [UV Tile UDIM Legacy](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)。 使用 Vray Next UDIM 輸出範本。
+> 如果你的專案設定成使用 [UV Tile UDIM Legacy](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)。 使用 Vray Next UDIM 輸出範本。
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 

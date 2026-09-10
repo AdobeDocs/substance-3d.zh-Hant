@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-2.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-2.html"
 breadcrumb-title: ''
 description: 請檢視 Unreal Engine 5 外掛 5.0.2 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""

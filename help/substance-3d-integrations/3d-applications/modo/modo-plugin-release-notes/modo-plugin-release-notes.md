@@ -28,4 +28,4 @@ ht-degree: 9%
 * [Modo 訴 2.7.3](../../../3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-3/modo-v-2-7-3.md)
 * [Modo 訴 2.7.2](../../../3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-2/modo-v-2-7-2.md)
 * [Modo 訴 2.7.1](../../../3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-1/modo-v-2-7-1.md)
-* [Modo 訴 2.7.0](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/modo-2-7-0-182256633.html)
+* [Modo 訴 2.7.0](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/modo-2-7-0-182256633.html)

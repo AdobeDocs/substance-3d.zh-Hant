@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/physical-size-in-unity.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/physical-size-in-unity.html"
 breadcrumb-title: ''
 description: 在 Unity 中，使用實體尺寸設定來套用並縮放 Substance 材質，根據真實世界的尺寸調整。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Unity 中的實體尺寸
 
-Unity 的 Substance 3D[&#128279;](https://www.adobe.com/products/substance3d/3d-augmented-reality.html) 外掛中的實體尺寸功能允許根據實體材質的真實尺寸來套用和縮放。尺寸會在 Substance 應用程式如 Designer 中設定，並顯示在插件面板的實體尺寸區塊中。
+Unity 的 Substance 3D[&#128279;](https://www.adobe.com/tw/products/substance3d/3d-augmented-reality.html) 外掛中的實體尺寸功能允許根據實體材質的真實尺寸來套用和縮放。尺寸會在 Substance 應用程式如 Designer 中設定，並顯示在插件面板的實體尺寸區塊中。
 
 此功能目前僅支援 HDRP 工作流程。
 

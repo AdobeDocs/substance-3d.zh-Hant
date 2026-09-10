@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/renderman.html"
 breadcrumb-title: ''
 description: 在 Maya 及其他 DCC 應用程式中，使用 Renderman 使用 pxrSurface 或 pxrDisney 材質來渲染 Substance 材質。
 helpx_creative_field: ""

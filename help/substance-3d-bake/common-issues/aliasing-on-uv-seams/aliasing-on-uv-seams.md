@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
 description: 透過調整抗鋸齒和填充設定，修正烘焙時UV接縫出現的鋸齒瑕疵。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: 學習如何存取並使用Substance 3D Designer中的烘焙視窗，將模型資訊烘焙到貼圖中。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-烘焙視窗可以透過檔案總管[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html)視窗中的網格檔案進入。右鍵點擊網格名稱，選擇「**烘焙模型資訊**」以開啟烘焙視窗。
+烘焙視窗可以透過檔案總管[&#128279;](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html)視窗中的網格檔案進入。右鍵點擊網格名稱，選擇「**烘焙模型資訊**」以開啟烘焙視窗。
 
 ## 概觀
 

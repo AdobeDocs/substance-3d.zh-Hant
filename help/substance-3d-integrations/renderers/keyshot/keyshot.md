@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: 在 Keyshot 渲染器中使用 Substance 材質來進行產品視覺化，並匯出材質貼圖。
 helpx_creative_field: ""

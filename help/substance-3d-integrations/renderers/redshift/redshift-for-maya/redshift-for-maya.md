@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-for-maya.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/redshift/redshift-for-maya.html"
 breadcrumb-title: ''
 description: 在 Maya 裡透過匯出的貼圖或 Substance 插件，使用 Redshift 渲染器搭配 Substance 材質。
 helpx_creative_field: ""

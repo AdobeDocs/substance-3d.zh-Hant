@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html'
+helpx_url: 'https://helpx.adobe.com/tw/substance-3d-bake/getting-started/what-is-baking.html'
 breadcrumb-title: ''
 description: 了解什麼是烘焙，並學習如何將 3D 網格資訊儲存到材質檔案中，以強化你的 Substance 材質。
 helpx_creative_field: ''

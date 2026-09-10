@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/vray/vray-next-substance-in-3ds-max.html"
 breadcrumb-title: ''
 description: 在 3ds Max 中透過匯出貼圖或 Substance 插件渲染，使用 Substance 材質搭配 V-Ray Next。
 helpx_creative_field: ""

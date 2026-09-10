@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
 breadcrumb-title: ''
 description: 在 MODO 裡切換 CPU 和 GPU Substance 引擎，根據你的硬體優化效能。
 helpx_creative_field: ""

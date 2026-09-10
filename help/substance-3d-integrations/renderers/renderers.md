@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers.html"
 breadcrumb-title: ''
 description: 在你的 3D 工作流程中，使用 Substance 材質搭配 Arnold、V-Ray、Redshift 等主要渲染器。
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ Substance Source 提供的 [&#128279;](https://source.substance3d.com/)Substance
 
 例如用 Arnold 或 Vray Next，你可以直接使用金屬/粗糙度輸出。 然而，使用 Renderman 的 pxrSurface，底色/金屬色輸出需要轉換成漫反射和鏡面色。 如果支援渲染器，Substance 整合外掛會自動處理這些轉換。
 
-使用 Substance Painter，你可以選擇 [一個輸出範本](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export-window/export-window) ，為特定渲染器建立適當的貼圖類型。 如果你的渲染器預設不支援，你也可以建立自訂的輸出範本。
+使用 Substance Painter，你可以選擇 [一個輸出範本](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/getting-started/export/export-window/export-window) ，為特定渲染器建立適當的貼圖類型。 如果你的渲染器預設不支援，你也可以建立自訂的輸出範本。
 
 **Substance Painter 輸出範本**
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/tangent-space.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/features/tangent-space.html"
 breadcrumb-title: ''
 description: 學習 Substance Bakers 如何處理切線空間計算，並根據您的工作流程自訂演算法。
 helpx_creative_field: ""

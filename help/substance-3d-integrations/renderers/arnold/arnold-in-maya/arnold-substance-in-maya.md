@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
 breadcrumb-title: ''
 description: 學習如何在 Maya 中使用 Substance 外掛和標準 Surface 材質，搭配 Arnold 渲染器使用 Substance 材質。
 helpx_creative_field: ""

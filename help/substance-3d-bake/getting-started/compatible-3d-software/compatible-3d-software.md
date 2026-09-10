@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/compatible-3d-software.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/getting-started/compatible-3d-software.html"
 breadcrumb-title: ''
 description: 了解哪些 3D 軟體與 Substance Bakers 相容，並學習如何準備網格以達到最佳烘焙效果。
 helpx_creative_field: ""
