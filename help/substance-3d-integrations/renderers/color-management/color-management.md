@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/color-management.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management.html"
 breadcrumb-title: ''
 description: 在使用 Substance 材質搭配不同渲染器時，了解色彩管理與伽瑪校正。
 helpx_creative_field: ""
@@ -28,13 +28,13 @@ ht-degree: 0%
 
 ## 色彩管理
 
-本文件的目的是詳細說明如何處理從 **Substance Painter** 和 **Substance Designer** 匯出的材質，並以 3D 軟體[&#128279;](https://www.adobe.com/tw/products/substance3d/3d-augmented-reality.html)及渲染器進行處理。
+本文件的目的是詳細說明如何處理從 **Substance Painter** 和 **Substance Designer** 匯出的材質，並以 3D 軟體](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)及渲染器進行[處理。
 
-正確解讀作為材質通道輸入的影像，取決於該影像在場景中的使用方式。 色彩空間、編碼，以及色彩值是否與&#x200B;**場景參考亮度**&#x200B;**或顯示**&#x200B;亮度成正比，也扮演重要角色。
+正確解讀作為材質通道輸入的影像，取決於該影像在場景中的使用方式。 色彩空間、編碼，以及色彩值是否與&#x200B;**場景參考亮度****或顯示**&#x200B;亮度成正比，也扮演重要角色。
 
-* 用於表示 **非彩色資料** 的影像不應被轉換。 這些&#x200B;**&#x200B;**&#x200B;**通常是正常、粗糙度**、**金屬感**、**位移**&#x200B;和&#x200B;**環境**&#x200B;**遮蔽**&#x200B;等。
+* 用於表示 **非彩色資料** 的影像不應被轉換。 這些&#x200B;******通常是正常、粗糙度**、**金屬感**、**位移**&#x200B;和&#x200B;**環境****遮蔽**&#x200B;等。
 * 代表我們所見顏色的影像可以有多種情境。 例如，已經&#x200B;**是場景線性的**&#x200B;影像通常不需要轉換，例如&#x200B;**儲存在 OpenEXR** 和 **HDR** 等格式&#x200B;**的高動態範圍**&#x200B;影像。
-* 為顯示而製作的影像（**顯示參考**）則需去除其伽瑪影像。 這些格式包括大多數格式，如 **PNG、**&#x200B;**JPEG** 和 **BMP**。這些影像分為&#x200B;**底**&#x200B;**色**、**漫反射**、**鏡面及**&#x200B;**發射。**
+* 為顯示而製作的影像（**顯示參考**）則需去除其伽瑪影像。 這些格式包括大多數格式，如 **PNG、****JPEG** 和 **BMP**。這些影像分為&#x200B;**底****色**、**漫反射**、**鏡面及****發射。**
 
 雖然這是過度簡化的說法，但將過程理解為以下會有幫助：
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 >
 > sRGB 解碼函數（EOTF）將伽瑪空間轉換為線性空間，用於 Substance Painter 與 Substance Designer，並由 IEC 61966-2-1：1999 標準定義
 
-Substance Designer 可設定為使用 [OpenColorIO](https://opencolorio.org/) 進行色彩管理。 這讓你能在多個應用程式中保持一致&#x200B;**&#x200B;的色彩轉換和影像顯示。在此模式下，Substance Designer 內部會處理 &#x200B;** 線性 RGB **&#x200B; 色彩。 由於 8 位元深度通常不足以表示線性顏色，因此建議圖形中的[&#128279;](https://docs.substance3d.com/display/SDDOC/Graph+View)色彩紋理至少使用&#x200B;**&#x200B;**16位元**&#x200B;深度。
+Substance Designer 可設定為使用 [OpenColorIO](https://opencolorio.org/) 進行色彩管理。 這讓你能在多個應用程式中保持一致&#x200B;**&#x200B;的色彩轉換和影像顯示。在此模式下，Substance Designer 內部會處理 **線性 RGB** 色彩。 由於 8 位元深度通常不足以表示線性顏色，因此建議圖形中的](https://docs.substance3d.com/display/SDDOC/Graph+View)[色彩紋理至少使用&#x200B;****16位元**&#x200B;深度。
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/sd-cm?$png$&jpegSize=200&wid=686)
 

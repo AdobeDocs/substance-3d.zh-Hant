@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/common-parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/common-parameters.html"
 breadcrumb-title: ''
 description: 了解適用於所有烘焙師的共通參數，以及如何配置以達到最佳的紋理生成。
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 0%
 | **抗鋸齒** | 控制抗鋸齒，提升烘焙材質品質並減少不同幾何體連接處的鋸齒。欲了解更多鋸齒相關資訊，請參閱： [UV 縫隙](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) 鋸齒及 [維基百科](https://en.wikipedia.org/wiki/Aliasing)鋸齒。可用數值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>無</strong> （預設）</li><li data-preserve-html="true"><strong>2x2 子取樣</strong></li><li data-preserve-html="true"><strong>4x4 子取樣</strong></li><li data-preserve-html="true"><strong>8x8 子取樣</strong></li></ul>  **注意：**  啟用抗鋸齒會大幅增加烘焙時間，因為抗鋸齒是先以較高解析度計算貼圖，再縮小回原始選取大小。 這表示 2K 材質搭配 2x2 子取樣，實際上會計算出 4K 材質。有時增加烘焙爐中的射線數量比增加子取樣更為可取。 這樣可以不用拖太久就能取得更好的效果。 |
 | **UV 集合** | 控制低多邊形網格中哪些 UV 將用於計算烘焙貼圖。*Substance Painter 無法提供。* |
 |  |  |
-| **擴張（px）** | 將UV外或其邊界的像素放大/延長，依據給定的像素數。 此操作可避免當 UV 邊界未完全對齊貼圖像素或材質解析度降低（例如：mipmaps）時產生接縫。 這是烘焙後的後續處理。 有時也稱為「填充」。想了解更多關於膨脹的資訊，請參考： [UV 接縫](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) 的鋸齒與 [填充](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)。 |
+| **擴張（px）** | 將UV外或其邊界的像素放大/延長，依據給定的像素數。 此操作可避免當 UV 邊界未完全對齊貼圖像素或材質解析度降低（例如：mipmaps）時產生接縫。 這是烘焙後的後續處理。 有時也稱為「填充」。想了解更多關於膨脹的資訊，請參考： [UV 接縫](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) 的鋸齒與 [填充](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)。 |
 | **施加擴散** | 啟用後，UV 外圍會根據 UV 邊界填充平滑漸層色。 這個過程確保當貼圖大小縮小時，它能保持穩定，不會產生過於明顯的接縫（例如：mipmaps）。 這是烘焙後的後續處理。 |
 | **平均常態** | 啟用時，會計算頂點的平均法線，以知道在網格匹配烘焙過程中該向哪個方向傳送光線。 如果停用，光線會遵循網格的原始頂點法線。 |
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya.html"
 breadcrumb-title: ''
 description: 安裝並使用 Maya 的 Substance 外掛來匯入 Substance 材質，並將其整合到你的工作流程中。
 helpx_creative_field: ""
@@ -36,4 +36,4 @@ ht-degree: 3%
 * [阿諾德支援](../../3d-applications/maya/arnold-support/arnold-support.md)
 * [將工作流程套用到地圖上](../../3d-applications/maya/apply-workflow-to-maps/apply-workflow-to-maps.md)
 * [Maya 腳本](../../3d-applications/maya/maya-scripting/maya-scripting.md)
-* [瑪雅的物理尺寸](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/232292481.html)
+* [瑪雅的物理尺寸](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/232292481.html)

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-overview-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-overview-ue5.html"
 breadcrumb-title: ''
 description: 透過 Substance 插件的總覽指南，學習如何在 Unreal Engine 5 中匯入和使用 Substance 材質。
 helpx_creative_field: ""

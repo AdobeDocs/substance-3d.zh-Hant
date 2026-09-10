@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
 breadcrumb-title: ''
 description: 排除為什麼你的網格烘烤後會完全變黑，並學習如何解決常見原因。
 helpx_creative_field: ""
@@ -38,5 +38,5 @@ ht-degree: 0%
 > 
 > 有兩種可能的解決方案：
 > 
-> * 調整你的烘焙設定以避免黑色材質，參見： [烘焙輸出完全黑色或空](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
-> * 從貼圖集設定[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)中移除黑色貼圖。
+> * 調整你的烘焙設定以避免黑色材質，參見： [烘焙輸出完全黑色或空](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+> * 從貼圖集設定](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)中移除黑色貼圖[。

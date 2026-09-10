@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/downloading-substance-3d-plugin-in-unity.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/downloading-substance-3d-plugin-in-unity.html"
 breadcrumb-title: ''
 description: 從 Unity 資產商店或套件管理器下載並安裝 Substance 3D 的 Unity 外掛。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 資產商店
 
-Unity 版 Adobe Substance 3D 可在 Unity 資產商店[&#128279;](https://assetstore.unity.com/packages/tools/utilities/substance-3d-for-unity-beta-213208)取得。外掛會被加入你的專案，在 Assets 資料夾裡。
+Unity 版 Adobe Substance 3D 可在 Unity 資產商店](https://assetstore.unity.com/packages/tools/utilities/substance-3d-for-unity-beta-213208)取得[。外掛會被加入你的專案，在 Assets 資料夾裡。
 
 ## 套件管理器
 

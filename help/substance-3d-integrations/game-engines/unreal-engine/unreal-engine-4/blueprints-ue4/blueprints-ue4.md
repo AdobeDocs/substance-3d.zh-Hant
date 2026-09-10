@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 目錄
 
-* [藍圖（UE4）：物質材料參數](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/blueprint-substance-material-parameters-151584792.html)
-* [Blueprint（UE4）：動態材質實例](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
-* [Blueprint（UE4）：Aggregate Substance](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/blueprint-aggregate-substance-159451574.html)
-* [Blueprint（UE4）：節點參考](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)
+* [藍圖（UE4）：物質材料參數](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-substance-material-parameters-151584792.html)
+* [Blueprint（UE4）：動態材質實例](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+* [Blueprint（UE4）：Aggregate Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-aggregate-substance-159451574.html)
+* [Blueprint（UE4）：節點參考](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)

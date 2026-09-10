@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/curvature.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature.html"
 breadcrumb-title: ''
 description: 從網格中提取曲率資訊，製作能凸顯幾何體空洞和邊緣的貼圖。
 helpx_creative_field: ""
@@ -41,4 +41,4 @@ ht-degree: 0%
 | **演算法** | 定義了如何在網格上計算曲率資訊。 |
 | **詳情** | 控制曲率中資訊的強度。 高分數能產生更多細節，但不那麼細膩。 |
 | **啟用接縫** | 如果啟用，烘焙者會嘗試透過將邊界的紋素從一側複製到另一側，來減少 UV 島之間的接縫。 |
-| **縫隙**&#x200B;**強度** | 如果 **啟用了 Enable Seams** ，這個參數會控制縫線固定的強度。 |
+| **縫隙****強度** | 如果 **啟用了 Enable Seams** ，這個參數會控制縫線固定的強度。 |

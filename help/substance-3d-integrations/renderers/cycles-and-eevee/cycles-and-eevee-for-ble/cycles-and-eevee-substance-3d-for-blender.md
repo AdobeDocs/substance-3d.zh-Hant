@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-substance-3d-for-blender.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-substance-3d-for-blender.html"
 breadcrumb-title: ''
 description: 透過 Substance 外掛整合，使用 Blender 的 Cycles 和 Eevee 渲染器來使用 Substance 3D 材質。
 helpx_creative_field: ""

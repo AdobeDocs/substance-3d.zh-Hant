@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
 breadcrumb-title: ''
 description: 了解 3ds Max 的 Substance 插件，以及如何匯入和使用 Substance 材質在你的專案中。
 helpx_creative_field: ""
@@ -49,7 +49,7 @@ ht-degree: 0%
 ## 解析度變更：
 
 1. 在 Substance 輸出設定中設定計算出的 Substance 材質所需的解析度。
-1. 解析度最高可達 8K，請確保你使用的是 Substance 設定[&#128279;](../../../3d-applications/3ds-max/settings-1/substance-settings.md)中的 GPU 引擎。
+1. 解析度最高可達 8K，請確保你使用的是 Substance 設定](../../../3d-applications/3ds-max/settings-1/substance-settings.md)中的 GPU 引擎[。
 
    ![](../../../assets/max6.png)
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
 breadcrumb-title: ''
 description: 在 MODO 中設定物質材質的發射屬性，以控制光度量與色彩設定。
 helpx_creative_field: ""

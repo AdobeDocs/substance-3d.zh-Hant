@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
 breadcrumb-title: ''
 description: 在 3ds Max 中，使用曲線編輯器（Curve Editor）來製作動態效果，隨時間動態調整物質材質參數。
 helpx_creative_field: ""

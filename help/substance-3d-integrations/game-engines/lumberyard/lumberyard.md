@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/lumberyard.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard.html"
 breadcrumb-title: ''
 description: 在 Amazon Lumberyard 遊戲引擎中使用 Substance 材質，並支援原生插件來支援材質工作流程。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/blender/downloading-and-installing-the-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/downloading-and-installing-the-plugin.html"
 breadcrumb-title: ''
 description: 從官方網站或 Blender 的附加元件管理器下載並安裝 Substance 3D Blender 外掛。
 helpx_creative_field: ""

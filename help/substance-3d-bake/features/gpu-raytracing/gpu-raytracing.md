@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/features/gpu-raytracing.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
 description: 啟用硬體加速的 GPU 光線追蹤，將烘焙計算加速 25 倍以上，以提升工作流程。
 helpx_creative_field: ""
@@ -60,24 +60,24 @@ ht-degree: 1%
 
 | 貝克 | 支援 GPU 光線追蹤 |
 | --- | --- |
-| 環境遮蔽 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 彎曲正常 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 顏色 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 曲率 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 高度 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 正常 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 正常世界空間 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 環境遮蔽 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 彎曲正常 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 顏色 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 曲率 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 高度 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 正常 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 正常世界空間 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
 
 
 
 | 貝克 | 支援 GPU 光線追蹤 |
 | --- | --- |
-| 不透明度遮罩 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 位置 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 位置低 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| 厚度 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 轉印紋理 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 世界與切線 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 不透明度遮罩 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 位置 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 位置低 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 厚度 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 轉印紋理 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 世界與切線 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
 
 
 +++
@@ -86,26 +86,26 @@ ht-degree: 1%
 
 | 貝克 | 支援 GPU 光線追蹤 |
 | --- | --- |
-| 環境遮蔽 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| 網格環境遮蔽 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| 網格彎曲法線 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| 網格色彩 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| 將 UV 轉換成 SVG | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| 網格曲率 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| 網格高度 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| 從網格中取法線 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 環境遮蔽 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 網格環境遮蔽 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
+| 網格彎曲法線 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
+| 網格色彩 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| 將 UV 轉換成 SVG | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 網格曲率 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
+| 網格高度 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| 從網格中取法線 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
 
 
 
 | 貝克 | 支援 GPU 光線追蹤 |
 | --- | --- |
-| 網格的不透明度遮罩 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| 網格位置 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| 位置 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| 網格厚度 | <div><img alt="（滴答聲）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| 從網格轉移貼圖 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| 世界空間方向 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| 世界空間法線 | <div><img alt="（錯誤）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 網格的不透明度遮罩 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| 網格位置 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| 位置 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 網格厚度 | <div><img alt="（滴答聲）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
+| 從網格轉移貼圖 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| 世界空間方向 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 世界空間法線 | <div><img alt="（錯誤）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
 
 
 \*：支援 CPU 光線追蹤，速度明顯比 GPU 光線追蹤慢很多。

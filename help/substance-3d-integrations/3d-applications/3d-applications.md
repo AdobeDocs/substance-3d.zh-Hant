@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications.html"
 breadcrumb-title: ''
 description: 學習如何在主要 DCC 應用程式如 Maya、3ds Max、Blender 等中匯入並使用 Substance 檔案。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 3D 應用
 
-你可以透過 Substance 插件，在大多數主要的 DCC 應用程式中匯入 Substance 檔案（.sbsar）。 這些外掛免費，可在我們網站上[&#128279;](https://www.substance3d.com/ecosystem-plug-ins/)或透過原生安裝程式取得。
+你可以透過 Substance 插件，在大多數主要的 DCC 應用程式中匯入 Substance 檔案（.sbsar）。 這些外掛免費，可在我們網站上](https://www.substance3d.com/ecosystem-plug-ins/)或透過原生安裝程式取得[。
 
 * [瑪雅](../3d-applications/maya/in-maya-overview/substance-in-maya-overview.md)
 * [3ds Max](../3d-applications/3ds-max/3ds-max.md)

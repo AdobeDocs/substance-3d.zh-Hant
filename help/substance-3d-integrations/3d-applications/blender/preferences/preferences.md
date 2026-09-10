@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/blender/preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/preferences.html"
 breadcrumb-title: ''
 description: 在 Blender 中設定 Substance 3D 附加偏好設定，以自訂外掛行為與設定。
 helpx_creative_field: ""

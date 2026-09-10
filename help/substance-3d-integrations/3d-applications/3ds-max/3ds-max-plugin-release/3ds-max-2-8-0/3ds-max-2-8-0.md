@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-8-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-8-0.html"
 breadcrumb-title: ''
 description: 查看 3ds Max 插件 2.8.0 版本的發布說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""

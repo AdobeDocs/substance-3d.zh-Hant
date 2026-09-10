@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
 breadcrumb-title: ''
 description: 透過檢查網格色彩屬性和 UV 映射，解決網格烘焙失敗的色彩映射。
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 0%
 > 
 > 可能的錯誤訊息：
 > 
-> &#x200B;> > > 
+> > > > 
 > 
 > [ 烘焙中 ]烘焙失敗（來自 Mesh 的色彩映射）\
 > 找不到頂點顏色
@@ -35,7 +35,7 @@ ht-degree: 0%
 >
 > **說明**
 > 
-> 從網格[&#128279;](../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md)的色彩貼圖預設設定是將高多邊形網格頂點顏色烘焙成基於網格 UV 的貼圖。然而，高多邊形網格通常沒有任何頂點顏色資訊。 因此，麵包師無法寫出不存在的資訊。
+> 從網格](../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md)的色彩貼圖預設[設定是將高多邊形網格頂點顏色烘焙成基於網格 UV 的貼圖。然而，高多邊形網格通常沒有任何頂點顏色資訊。 因此，麵包師無法寫出不存在的資訊。
 
 >[!NOTE]
 >

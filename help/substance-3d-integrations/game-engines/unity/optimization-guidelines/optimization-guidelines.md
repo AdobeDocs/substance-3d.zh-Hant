@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
 breadcrumb-title: ''
 description: 遵循優化指引，在 Unity 中平衡 Substance 材質的複雜度與渲染效能。
 helpx_creative_field: ""
@@ -35,6 +35,6 @@ ht-degree: 0%
 >   
 > Substance CPU 引擎能以 4K 計算，但速度非常慢，可能導致整合卡頓或當機。
 
-在以下範例中， [圖塊取樣器](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler) 節點的輸出大小設定為 [絕對](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/substance-graphs/output-size) 4096。 它會讓下游多個節點以 4K 計算，然後再降頻以達到最終的 2048 輸出解析度。
+在以下範例中， [圖塊取樣器](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler) 節點的輸出大小設定為 [絕對](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/output-size) 4096。 它會讓下游多個節點以 4K 計算，然後再降頻以達到最終的 2048 輸出解析度。
 
 ![](../../../assets/absolute.png){width="1000px"}

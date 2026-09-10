@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
 breadcrumb-title: ''
 description: 了解 Substance 如何在 Unity 中產生貼圖，並設定貼圖打包以達到最佳著色器輸入。
 helpx_creative_field: ""

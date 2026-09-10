@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/creative-cloud-applications.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/creative-cloud-applications.html"
 breadcrumb-title: ''
 description: 在 Adobe Creative Cloud 應用程式如 Photoshop 和 After Effects 中使用 Substance 材質，以提升工作流程。
 helpx_creative_field: ""

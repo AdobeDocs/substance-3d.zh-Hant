@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/3ds-max/using-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-presets.html"
 breadcrumb-title: ''
 description: 使用Substance檔案中嵌入的預設，或建立自訂預設來儲存3ds Max中的參數設定。
 helpx_creative_field: ""

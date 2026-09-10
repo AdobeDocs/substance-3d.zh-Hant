@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/renderers/vray/vray-next-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-in-maya.html"
 breadcrumb-title: ''
 description: 在 Maya 裡透過匯出的貼圖或 Substance 插件來渲染，使用 Substance 材質搭配 V-Ray Next。
 helpx_creative_field: ""

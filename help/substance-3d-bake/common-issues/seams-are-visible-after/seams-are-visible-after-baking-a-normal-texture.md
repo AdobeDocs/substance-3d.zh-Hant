@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
 breadcrumb-title: ''
 description: 透過調整填充、抗鋸齒和 UV 佈局，消除烘焙法線貼圖中可見的接縫。
 helpx_creative_field: ""
@@ -41,4 +41,4 @@ ht-degree: 0%
 > * UV 通常沒有對齊像素，導致鋸齒並產生接縫。 更多資訊請參見 [此頁面](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) 。
 >   * 提高材質解析度可以減少這種效果。
 >   * 將 UV 邊界對齊像素也是減少這種效果的另一種方法。
-> * 提高著色器 **品質** 設定。 著色器品質會影響鏡面反射的計算方式。 如果旋轉某些 UV 島，且此參數過低，可能會產生可見接縫。 更多資訊請參見 [此頁面](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html) 。
+> * 提高著色器 **品質** 設定。 著色器品質會影響鏡面反射的計算方式。 如果旋轉某些 UV 島，且此參數過低，可能會產生可見接縫。 更多資訊請參見 [此頁面](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html) 。

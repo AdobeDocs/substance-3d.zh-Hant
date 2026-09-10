@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/creative-cloud-applications/photoshop.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/creative-cloud-applications/photoshop.html"
 breadcrumb-title: ''
 description: 直接在 Photoshop 中使用 Substance 材質，創造逼真的材質，並用 3D 材質強化你的 2D 藝術作品。
 helpx_creative_field: ""

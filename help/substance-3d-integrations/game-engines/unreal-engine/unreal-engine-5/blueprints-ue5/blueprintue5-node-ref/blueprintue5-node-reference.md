@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-node-reference.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-node-reference.html"
 breadcrumb-title: ''
 description: Unreal Engine 5 中所有可用於材質操作的 Substance Blueprint 節點參考指南。
 helpx_creative_field: ""
@@ -56,5 +56,5 @@ ht-degree: 0%
 | **GetInputBool** | 輸入： **識別碼** （字串） | 回傳輸入的當前布林值。 |
 | **設定色彩** | 輸入： **顏色** （線性色彩）輸入： **識別碼** （FString） | 會接收 FLinearColor 值來指派顏色輸入值類型。 過去，這只能透過設定浮點數值並傳遞一組浮點數來達成。 |
 | **GetInputColor** | 輸入：識別碼（FString） | 回傳 UE4 格式的當前色彩值。 |
-| **CreateAggregateSubstanceFactory** | 輸入： **輸出工廠** （SubstanceInstanceFactory）*產生輸出的工廠，這些輸出將作為輸入到該工廠。*&#x200B;輸入： **輸出工廠圖索引** （整數）*你想在物質中用來合併的哪個圖形。* 輸入： **輸入工廠** （SubstanceInputFactory）*工廠使用輸出作為輸出工廠的輸入影像。*輸入：**連接**（SubstanceConnections 陣列）*此可透過藍圖節點 Make Array 建立。 物質連結是指你如何讓聚合節點連結哪些輸入連接到哪些輸出。* **&#x200B; Return（SubstanceInstanceFactory）*** 可用來建立新合併實例的圖實例。* | 新的聚合實體節點允許你在執行時取得兩個實體實例工廠，並建立一個新的實例工廠，進而用來建立新的圖實例。 這點特別之處在於你可以將其中一個合併圖實例的輸出紋理連接到另一個合併圖實例的輸入影像。 要從這個新工廠建立 substance graph 實例，請參閱我們關於執行時圖實例的文件。 |
+| **CreateAggregateSubstanceFactory** | 輸入： **輸出工廠** （SubstanceInstanceFactory）*產生輸出的工廠，這些輸出將作為輸入到該工廠。*&#x200B;輸入： **輸出工廠圖索引** （整數）*你想在物質中用來合併的哪個圖形。* 輸入： **輸入工廠** （SubstanceInputFactory）*工廠使用輸出作為輸出工廠的輸入影像。*輸入：**連接**（SubstanceConnections 陣列）*此可透過藍圖節點 Make Array 建立。 物質連結是指你如何讓聚合節點連結哪些輸入連接到哪些輸出。* ** Return（SubstanceInstanceFactory）*** 可用來建立新合併實例的圖實例。* | 新的聚合實體節點允許你在執行時取得兩個實體實例工廠，並建立一個新的實例工廠，進而用來建立新的圖實例。 這點特別之處在於你可以將其中一個合併圖實例的輸出紋理連接到另一個合併圖實例的輸入影像。 要從這個新工廠建立 substance graph 實例，請參閱我們關於執行時圖實例的文件。 |
 | **SubstanceConnectionStruct** | 輸入： **輸出識別碼** （FString）*將紋理輸出串接成輸入的識別碼。* 輸入： **輸入識別碼** （FString） | Create Aggregate Substance Factory 用來指定如何將每個輸出紋理串接到新的輸入紋理。 |

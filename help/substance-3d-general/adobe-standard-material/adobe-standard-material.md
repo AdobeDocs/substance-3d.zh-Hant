@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-general/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material.html"
 breadcrumb-title: ''
 description: 了解 Adobe 標準材質模型，以及如何在 Adobe 應用程式間進行物理基礎渲染。
 helpx_creative_field: ""

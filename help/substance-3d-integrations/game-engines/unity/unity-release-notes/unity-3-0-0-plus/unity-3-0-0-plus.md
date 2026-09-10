@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: 請參閱 Unity 外掛 3.0.0 及以上版本的發佈說明，了解新功能與改進。
 helpx_creative_field: ""
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * 解決了外掛 C++ 程式碼中的記憶體洩漏問題，確保物件丟棄後能完全恢復記憶體。
 * 已修正 Linux 上匯入 Unity 外掛套件時出現「SubstanceException： A invalid argument to the API」錯誤，現在允許成功匯入 SBSAR 檔案。
-* 解決了 SubstanceGraphSO.CurrentStatePreset 在 Unity 中用自訂編輯器視窗腳本載入預設時無法正常運作的問題;現在我們的 Substance 文件（HelpX）頁面有修正腳本：https://experienceleague.adobe.com/zh-hant/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
+* 解決了 SubstanceGraphSO.CurrentStatePreset 在 Unity 中用自訂編輯器視窗腳本載入預設時無法正常運作的問題;現在我們的 Substance 文件（HelpX）頁面有修正腳本：https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
 * 修正了一個在 Unity 編輯器重新選取圖屬性時會消失的錯誤。
 * 解決了 Unity 外掛中 SubstanceGraphSO 相關的「未知受管理型別參考」問題，提升了 Android 平台的相容性與功能性，特別是針對 Unity 2022.1，並有可能適用於所有 Unity 版本。
 * 修正了技術參數區塊中「NORMAL FORMAT」選項錯誤顯示為數字輸入欄位的問題，而非預期的下拉選單，並包含 DirectX 和 OpenGL 選項。

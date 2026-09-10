@@ -24,6 +24,6 @@ ht-degree: 0%
 
 ## 目錄
 
-* [SubstanceEditorTools](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/integrations/substanceeditortools-256212996.html)
+* [SubstanceEditorTools](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/substanceeditortools-256212996.html)
 * [SubstanceRuntime 類別](../../../../game-engines/unity/3d-for-unity-scripting/class-documentation/substanceruntime-class/substanceruntime-class.md)
 * [SubstanceRuntimeGraph 類別](../../../../game-engines/unity/3d-for-unity-scripting/class-documentation/substanceruntimegraph-cla/substanceruntimegraph-class.md)

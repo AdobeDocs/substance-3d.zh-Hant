@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
 breadcrumb-title: ''
 description: 在 Unreal Engine 5 中使用 Substance 材質，搭配 Substance 插件進行即時材質編輯與渲染。
 helpx_creative_field: ""

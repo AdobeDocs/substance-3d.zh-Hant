@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
 breadcrumb-title: ''
 description: 了解 Blender 的 Substance 3D 外掛，以及如何在專案中匯入和使用 Substance 材質。
 helpx_creative_field: ""
@@ -72,8 +72,8 @@ Substance 3D 面板用於管理專案中的 Substance 材料，並調整其個�
 
 ## 尋找更多物質材料
 
-數千個專業製作的素材及其他資產可於 [Substance 3D 資產頁面](https://helpx.adobe.com/tw/substance-3d/unlisted/assets.html)下載。 社群免費分享的更多資源可在 Substance 3D 社群資產頁面找到[&#128279;](https://helpx.adobe.com/tw/substance-3d/unlisted/community-assets.html)
+數千個專業製作的素材及其他資產可於 [Substance 3D 資產頁面](https://helpx.adobe.com/substance-3d/unlisted/assets.html)下載。 社群免費分享的更多資源可在 Substance 3D 社群資產頁面找到[](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)
 
 ## 社區
 
-如需一般協助、回饋或回報缺陷，請加入Substance Discord伺服器的 [&#128279;](https://discord.com/invite/substance3d)#substance-blender-beta頻道或[Adobe社群](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-blender)。
+如需一般協助、回饋或回報缺陷，請加入Substance Discord伺服器的 [#substance-blender-beta頻道或[Adobe社群](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-blender)。](https://discord.com/invite/substance3d)

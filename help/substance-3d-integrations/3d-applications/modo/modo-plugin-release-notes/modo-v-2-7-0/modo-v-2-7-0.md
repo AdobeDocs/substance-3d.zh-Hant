@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-0.html"
 breadcrumb-title: ''
 description: 請參閱 MODO 外掛 2.7.0 版本的發布說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -39,7 +39,7 @@ ht-degree: 0%
 
   這些都期望從 substance.getsbsname 獲得一個正式的內部名稱：
 
-  **substance.setpreset** 將 Substance 目前預設設為索引 **substance.getpresetindex** 取得當前預設索引 **substance.getpresetat 在指定索引 substance.getpresetcount**&#x200B;**回傳 Substance 在指定**&#x200B;索引處預設&#x200B;**的字串名稱 substance.savepresetfile** 將目前設定的預設儲存到指定檔案路徑 **substance.loadpresetfile** 將預設檔載入給定的 Substance
+  **substance.setpreset** 將 Substance 目前預設設為索引 **substance.getpresetindex** 取得當前預設索引 **substance.getpresetat 在指定索引 substance.getpresetcount****回傳 Substance 在指定**&#x200B;索引處預設&#x200B;**的字串名稱 substance.savepresetfile** 將目前設定的預設儲存到指定檔案路徑 **substance.loadpresetfile** 將預設檔載入給定的 Substance
 
   UI 指令：
 

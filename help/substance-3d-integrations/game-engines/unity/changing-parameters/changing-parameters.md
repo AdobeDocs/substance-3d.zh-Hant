@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/game-engines/unity/changing-parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/changing-parameters.html"
 breadcrumb-title: ''
 description: 在 Unity 中修改 Substance 材質參數，以在執行時自訂材質外觀與屬性。
 helpx_creative_field: ""
