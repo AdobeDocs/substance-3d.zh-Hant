@@ -1,6 +1,6 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
-breadcrumb-title: ''
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
+breadcrumb-title: ""
 description: 利用光線追蹤技術從高多邊形網格烘焙出精確的環境遮蔽紋理，以提升真實感。
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Ambient Occlusion from Mesh
@@ -8,15 +8,13 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: 來自 Mesh 的環境遮蔽
-user-guide-description: ''
-user-guide-title: ''
+user-guide-description: ""
+user-guide-title: ""
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
 workflow-type: tm+mt
 source-wordcount: '531'
 ht-degree: 0%
-
 ---
-
 
 # 來自 Mesh 的環境遮蔽
 
