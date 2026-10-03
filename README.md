@@ -29,7 +29,7 @@ ht-degree: 0%
 1. 在「這些內容有幫助嗎？」這個主題中。 點擊瀏覽器視窗底部的橫幅，點擊 **詳細回饋選項**。
 1. 點擊 **建議編輯** ，並在 GitHub UI 提交你的修改拉取請求（PR）。
 
-   更多資訊請參閱一般 [Adobe Docs 貢獻者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 。
+   更多資訊請參閱一般 [Adobe Docs 貢獻者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hant) 。
 
 您在本資料庫中提交的文件與程式碼範例所提交的輕微修正或澄清，均受 Adobe 使用條款約束。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 社群貢獻者可以使用 GitHub 介面進行基本編輯，或分支倉庫以做出重大貢獻。
 
-詳情請參閱 [Adobe 文件貢獻者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 。
+詳情請參閱 [Adobe 文件貢獻者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hant) 。
 
 ## 內部貢獻者
 
