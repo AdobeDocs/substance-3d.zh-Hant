@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-general/ecosystem/susbtance-3d-app-icons.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-general/ecosystem/susbtance-3d-app-icons.html'
 breadcrumb-title: ''
 description: 下載官方 Substance 3D 應用程式圖示，提供多種格式，用於您已發表的藝術作品與創意專案。
 helpx_creative_field: ''
@@ -10,13 +10,11 @@ helpx_tags: ''
 title: 藝術家的Substance 3D圖示
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 3e1d64407b71613a49af8ad6ccb25413e87a0ef9
+source-git-commit: b5c7498947f6367960916c24e54f8bf481206c65
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
-
 ---
-
 
 # 藝術家的Substance 3D圖示
 
@@ -28,6 +26,7 @@ ht-degree: 0%
     <td style="border: 0;" valign="top"><img src="../../assets/appicons/sa_appicon_256.svg" alt=""/></td>
     <td style="border: 0;" valign="top"><img src="../../assets/appicons/sg_appicon_256.svg" alt=""/></td>
     <td style="border: 0;" valign="top"><img src="../../assets/appicons/md_appicon_256.svg" alt=""/></td>
+    <td style="border: 0;" valign="top"><img src="../../assets/appicons/s3d_assets_appicon_256.svg" alt=""/></td>
   </tr>
 </table>
 
@@ -39,7 +38,7 @@ ht-degree: 0%
 
 Creative Cloud 使用者可透過此共享函式庫存取 Creative Cloud 應用程式中的這些圖示：
 
-[物質3D圖示](https://shared-assets.adobe.com/link/4c83a12c-3948-4151-5be1-ad75f4a64be0)
+[物質3D圖示](https://www.adobe.com/files/libraries/urn:aaid:SC:EU:0E944904-0efe-427F-8547-92744a19EEAF)
 
 ## 範例
 
