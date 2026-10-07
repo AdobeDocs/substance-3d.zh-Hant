@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-general/ecosystem/susbtance-3d-app-icons.html'
+helpx_url: 'https://helpx.adobe.com/tw/substance-3d-general/ecosystem/susbtance-3d-app-icons.html'
 breadcrumb-title: ''
 description: 下載官方 Substance 3D 應用程式圖示，提供多種格式，用於您已發表的藝術作品與創意專案。
 helpx_creative_field: ''
