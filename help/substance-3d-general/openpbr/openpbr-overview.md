@@ -911,7 +911,7 @@ PBR的核心是建立在幾個關於光與表面的基本物理觀念之上。 �
 
 實務上，PBR 將藝術家的角色從補償光影或渲染器的怪異性轉向以真實世界特性描述材料。 結果是工作流程重視一致性，而非場景特定調整，真實感自然來自明確的材質輸入，而非手工製作的燈光技巧。
 
-欲了解更多PBR技術細節，請參閱 [Wes McDermott](https://www.adobe.com/learn/substance-3d-designer/web/the-pbr-guide-part-1)所著《PBR指南》。
+欲了解更多PBR技術細節，請參閱 [Wes McDermott](https://www.adobe.com/tw/learn/substance-3d-designer/web/the-pbr-guide-part-1)所著《PBR指南》。
 
 ## 附錄二：什麼是 OpenPBR？
 

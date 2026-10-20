@@ -100,7 +100,7 @@ ht-degree: 4%
 
 Adobe Substance 3D Collection 只有在你兌換優惠券碼時輸入有效信用卡，或是在訂閱期限到期前 account.adobe.com 年將信用卡加入帳戶管理頁面時，才會自動續訂。
 
-[比較 Adobe 訂閱方案](https://www.adobe.com/creativecloud/plans.html) 以確認 Adobe Substance 3D Collection 個人方案的標價，年費為預付。
+[比較 Adobe 訂閱方案](https://www.adobe.com/tw/creativecloud/plans.html) 以確認 Adobe Substance 3D Collection 個人方案的標價，年費為預付。
 
 +++
 
