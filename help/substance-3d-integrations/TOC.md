@@ -2,13 +2,11 @@
 user-guide-description: Substance 3D 生態系統
 user-guide-title: Substance 3D 生態系統
 breadcrumb-title: Substance 3D 生態系統使用者指南
-source-git-commit: 64bf951de3bf8ba9ce4c74240c48bb826ce337c5
+source-git-commit: 443fe2ec6a3769c9308038fe541176ed84330500
 workflow-type: tm+mt
-source-wordcount: '813'
-ht-degree: 1%
-
+source-wordcount: '818'
+ht-degree: 2%
 ---
-
 
 # Substance 3D 生態系統 {#ecosystem}
 
@@ -218,6 +216,8 @@ ht-degree: 1%
   + 攪拌機{#blender}
     + [Blender 概述](/help/substance-3d-integrations/3d-applications/blender/blender.md)
     + 發行說明{#release-notes}
+      + [發行說明](/help/substance-3d-integrations/3d-applications/blender/release-notes/release-notes.md)
+      + [附加元件 3.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-3-0-0.md)
       + [附加元件 2.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus/add-on-2-0-0-plus.md)
       + [附加元件 2.0.0](/help/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0/blender-add-on-2-0-0.md)
       + [附加元件 1.0.2](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-1-0-2/add-on-1-0-2.md)
