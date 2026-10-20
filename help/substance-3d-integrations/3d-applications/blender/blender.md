@@ -1,6 +1,6 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/blender.html"
-breadcrumb-title: ''
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender.html"
+breadcrumb-title: ""
 description: 安裝並使用 Blender 的 Substance 3D 外掛，匯入並在你的 3D 專案中操作 Substance 材質。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Blender
@@ -8,15 +8,13 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: 攪拌機
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: aa5acd016cd1a55ab230d36352c4d3aa5514012a
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 4%
-
+source-wordcount: '66'
+ht-degree: 7%
 ---
-
 
 # 攪拌機
 
@@ -35,3 +33,4 @@ ht-degree: 4%
 * [疑難排解](../../3d-applications/blender/troubleshooting/troubleshooting.md)
 * [卸載外掛](../../3d-applications/blender/uninstalling-the-add-on/uninstalling-the-add-on.md)
 * [Substance 3D Blender 教學外掛](../../3d-applications/blender/add-for-blender-tutorials/substance-3d-add-on-for-blender-tutorials.md)
+* [發行說明](release-notes/release-notes.md)
