@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
 breadcrumb-title: ""
 description: 在 3ds Max 中使用渲染工作流程，自動為來自 Substance 材質的不同渲染器建立著色器網路。
 helpx_creative_field: ""

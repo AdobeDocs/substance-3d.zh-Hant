@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/batch-import.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/3ds-max/batch-import.html"
 breadcrumb-title: ""
 description: 使用批次匯入功能一次匯入多個 Substance SBSAR 檔案至 3ds Max，以提升效率。
 helpx_creative_field: ""

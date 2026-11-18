@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-engine-versioning.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ""
 description: 使用此參考資料檢查哪個 Substance 引擎版本與您的軟體相容，並確保材質相容性。
 helpx_creative_field: ""

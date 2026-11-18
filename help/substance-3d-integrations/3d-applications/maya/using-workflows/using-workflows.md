@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ""
 description: 在 Maya 中為 Substance 輸出建立並使用渲染預設，以自動為不同渲染器產生著色器網路。
 helpx_creative_field: ""
@@ -69,7 +69,7 @@ Workflows 清單中有兩種 OpenPBR 工作流程： **OpenPBR** 和 **OpenPBR -
 
 ### 什麼是 OpenPBR
 
-OpenPBR 是一個由 Adobe 與 Autodesk 開發的開放、物理基礎材質著色模型，並對 Academy Software Foundation（ASWF）有所貢獻。 它提供統一的材質定義，且可在不同渲染器間相容。 欲了解更多資訊，請參閱 [OpenPBR 文件](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/openpbr/openpbr-overview)。
+OpenPBR 是一個由 Adobe 與 Autodesk 開發的開放、物理基礎材質著色模型，並對 Academy Software Foundation（ASWF）有所貢獻。 它提供統一的材質定義，且可在不同渲染器間相容。 欲了解更多資訊，請參閱 [OpenPBR 文件](https://experienceleague.adobe.com/zh-hant/docs/substance-3d/general-knowledge/openpbr/openpbr-overview)。
 
 ### 何時使用 OpenPBR 工作流程
 
