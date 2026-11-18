@@ -56,4 +56,4 @@ Substance for Maya 外掛程式允許您直接載入任何現有的 Substance 3D
 
 ## 疑難排解
 
-若要回報錯誤，請加入 Substance Discord 伺服器的 [#maya-plugin 頻道，或造訪 [Adobe 社群](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-autodesk3dsmax)。](https://discord.com/invite/substance3d)將主控台日誌中的相關資訊及任何重現步驟納入，將有助於我們更有效率地診斷問題。
+若要回報錯誤，請加入 Substance Discord 伺服器的 [&#128279;](https://discord.com/invite/substance3d)#maya-plugin 頻道，或造訪 [Adobe 社群](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-autodesk3dsmax)。將主控台日誌中的相關資訊及任何重現步驟納入，將有助於我們更有效率地診斷問題。
