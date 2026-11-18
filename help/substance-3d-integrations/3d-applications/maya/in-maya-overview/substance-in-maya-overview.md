@@ -1,51 +1,59 @@
 ---
 helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
-breadcrumb-title: ''
-description: 了解 Maya 的 Substance 外掛，以及如何匯入和使用 Substance 材質在你的工作流程中。
+breadcrumb-title: ""
+description: 了解 Maya 的 Substance 外掛，以及如何匯入和在工作流程中使用 Substance 材質。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Substance in Maya Overview
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 瑪雅中的物質概述
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+title: Maya 中的實質概覽
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '433'
 ht-degree: 0%
-
 ---
 
+# Maya 中的實質概覽
 
-# 瑪雅中的物質概述
+## 外掛程式概覽
 
-## 外掛概述
-
-Substance 插件允許你直接在 Maya 載入在 Substance Designer 中建立的 Substance 材質。 這個插件會建立一個 Maya 材質，並將物質材質貼圖輸入到材質通道的輸入中。 你可以修改物質參數，貼圖會自動更新。
+Substance for Maya 外掛程式允許您直接載入任何現有的 Substance 3D 材質（。SBSAR 檔案）在 Maya 中。 Substance 3D 材質可從 Substance 3D Designer 或 Substance 3D Sampler 撰寫並匯出為 SBSAR 檔案，亦可從現有函式庫（如 Substance 3D 資產庫）下載。 Substance for Maya 外掛程式會建立 Maya 材質，並將輸出材質輸入到正確的材質通道輸入
 
 >[!NOTE]
 >
-> 確保你在設定/偏好設定 ->Maya 外掛管理器中已載入該插件
+> 請確認您在設定/偏好設定中已載入該外掛 ->Maya 外掛管理員
 
-![](https://helpx-prod.scene7.com/is/image/HelpxProd/plugin-4?$png$&jpegSize=100&wid=618)
+## 在 Hypershade 節點編輯器中開啟 SBSAR 檔案
 
-## 打開物質
-
-1. 打開 Hypershade，在節點編輯器裡，右鍵點擊並向上滑動標記選單，選擇建立節點。 這會開啟「建立節點」視窗。 接著你可以搜尋物質節點。
+1. 開啟 **Hypershade**，在節點編輯器&#x200B;**中**，在標記選單中右鍵點擊並向上滑動，選擇&#x200B;**建立節點**。在建立 **節點視窗**&#x200B;中，搜尋並選取「 **Substance」節點**。
 
    ![](../../../assets/createnode.png)
 
-   你也可以在節點編輯器裡按 Tab，然後在文字欄位輸入 substance，這樣就會篩選到物質選項。 從選項中選擇物質質地。
-1. 選擇 Substance 節點，在屬性編輯器中瀏覽以載入 Substance （.sbsar） 檔案。
+   在 Hypershade 中點擊 **Substance 節點** 以選取它。 這會開啟 **材質編輯器**，您可以點擊資料夾圖示載入您的 Substance 3D 材質（SBSAR 檔案）。
 
-   ![](../../../assets/1.png)
-1. 如果該物質包含多個圖表，選取圖下拉選單會自動顯示。 所選的圖表將用於製作素材。
-1. 圖譜資訊按鈕會顯示 Substance Designer 中設定的圖屬性。
-1. 解析度可從寬度與高度下拉選單中選擇。 鎖定配給預設是啟用的。
-1. 啟用快取輸出到磁碟，以便將物質輸出烘焙到磁碟，以便能與像 Arnold 這類渲染器一起使用。 快取檔案會由外掛透過 Maya 檔案節點讀取回來。
+1. 或者，您也可以將 SBSAR 檔案拖放到 Maya **的 Hypershade 編輯器**&#x200B;中，然後點擊自動建立的 Substance 節點，直接檢視並編輯材質編輯器&#x200B;**中的**&#x200B;選項。
+
+### 在屬性編輯器中調整 SBSAR 參數
+
+![](../../../assets/1.png)
+
+1. **若 Substance 包含多個圖表，則會顯示「已選取圖表」下拉選單**。選擇要使用哪張圖表來建立材質。
+
+1. **「圖譜資訊」按鈕**&#x200B;會顯示在 Substance Designer 中設定的圖屬性。
+
+1. 透過設定 **寬度** 與 **高度** 來設定解析度。 停用 **鎖定比率** 以選擇非方形比例。
+
+1. 啟用 **快取輸出到磁碟** ，將 Substance 輸出烘焙到磁碟，以便搭配像 Arnold 這樣的渲染器使用。 快取的檔案會由外掛透過 Maya 檔案節點重新讀取。
 
    ![](../../../assets/outputsettings.png)
-1. 選擇你使用的渲染器的工作流程，然後點擊「建立著色器網路」按鈕。 為渲染器工作流程建立著色器網路。 你現在可以在場景中套用素材。
+
+1. 選擇您所使用的渲染器工作流程，然後點擊「 **建立著色器網路」按鈕**。 為渲染器工作流程建立一個著色器網路。 在 3.1.1. 版本中，工作流程清單也提供建立 OpenPBR 著色器網路的選項。 一旦著色器網路建立好，你就可以在場景中套用材質。
 
    ![](../../../assets/createnetwork.gif){width="1000px"}
+
+## 疑難排解
+
+若要回報錯誤，請加入 Substance Discord 伺服器的 [&#128279;](https://discord.com/invite/substance3d)#maya-plugin 頻道，或造訪 [Adobe 社群](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-autodesk3dsmax)。將主控台日誌中的相關資訊及任何重現步驟納入，將有助於我們更有效率地診斷問題。

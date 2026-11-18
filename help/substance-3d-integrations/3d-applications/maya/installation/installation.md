@@ -1,41 +1,51 @@
 ---
 helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya/installation.html"
-breadcrumb-title: ''
-description: 使用 Maya 的官方安裝程式或透過 Maya 的插件管理器安裝 Substance 插件。
+breadcrumb-title: ""
+description: 請使用官方安裝程式或透過 Maya 的外掛管理器安裝 Maya 的 Substance 外掛。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Installation
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 安裝
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+title: 下載並安裝
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 0%
-
 ---
 
+# 下載並安裝
 
-# 安裝
+Substance in Maya 外掛預設包含在 Maya 安裝程式中。
 
-Substance in Maya 外掛也已正式安裝在 Maya 2022/2020 安裝程式中。 預設是啟用安裝的。
+您可以從 [Adobe Substance 3D for Maya 頁面](https://substance3d.adobe.com/plugins/substance-in-maya/)下載更新版本的安裝程式。
 
->[!NOTE]
->
-> **瑪雅 2022**
-> 
-> **Windows**：C：\Program Files\Allegorithmic\Adobe Substance 3D for Maya\2022\
-> **MacOS**：/應用程式/Allegorithmic/Adobe Substance 3D for Maya/2022\
-> **Linux**：/opt/Allegorithmic/Adobe Substance 3D for Maya/2022
+## 舊版外掛程式
 
->[!NOTE]
->
-> **瑪雅 2020**
-> 
-> **Windows**：C：\Program Files\Allegorithmic\Adobe Substance 3D for Maya\2020\
-> **MacOS**：/Applications/Allegorithmic/Adobe Substance 3D for Maya/2020\
-> **Linux**：/opt/Allegorithmic/Adobe Substance 3D for Maya/2020
+最新版本的外掛程式由 Autodesk 原生發行，搭配最新相容的 Maya 版本。 如果您需要針對舊版本的特定建置版本，請在下方下載連結
 
-此外，最新版本外掛的安裝程式可從 [Adobe Substance 3D for Maya](https://substance3d.adobe.com/plugins/substance-in-maya/) 頁面下載。
+**下載 Autodesk Maya 2027 版**
+
+* Windows： <https://www.adobe.com/go/substance3d-maya-win-latest>
+* Mac： <https://www.adobe.com/go/substance3d-maya-mac-latest>
+* Linux： <https://www.adobe.com/go/substance3d-maya-lin-latest>
+
+**下載 Autodesk Maya 2026 版**
+
+* Windows： <https://www.adobe.com/go/substance3d-maya-win-2026>
+* Mac： <https://www.adobe.com/go/substance3d-maya-mac-2026>
+* Linux： <https://www.adobe.com/go/substance3d-maya-lin-2026>
+
+**下載 Autodesk Maya 2025**
+
+* Windows： <https://www.adobe.com/go/substance3d-maya-win-2025>
+* Mac： <https://www.adobe.com/go/substance3d-maya-mac-2025>
+* Linux： <https://www.adobe.com/go/substance3d-maya-lin-2025>
+
+**下載 Autodesk Maya 2024（外掛程式版本 3.1.0）**
+
+* Windows： <https://www.adobe.com/go/substance3d-maya-win-2024>
+* Mac： <https://www.adobe.com/go/substance3d-maya-mac-2024>
+* Linux： <https://www.adobe.com/go/substance3d-maya-lin-2024>

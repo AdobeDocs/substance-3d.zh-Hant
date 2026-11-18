@@ -1,30 +1,30 @@
 ---
 helpx_url: "https://helpx.adobe.com/tw/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ""
-description: 利用此參考資料檢查哪個 Substance 引擎版本與你的軟體相容，並確保內容相容性。
+description: 使用此參考資料檢查哪個 Substance 引擎版本與您的軟體相容，並確保材質相容性。
 helpx_creative_field: ""
 helpx_description: General Knowledge > Ecosystem > Substance engine versioning
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Substance 引擎版本調整
+title: Substance 引擎版本控制
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 4aabc9cc3e18e14f4d381cd98e2f320f07149298
+source-git-commit: 50cadc1d3d23c51ef24ab742a4eb85503db9b856
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '630'
 ht-degree: 24%
 ---
 
-# Substance 引擎版本調整
+# Substance 引擎版本控制
 
-Substance 軟體中建立的 Substance 材質與模型，僅能用於支援相同或更新版本 Substance Engine 的應用程式
+在 Substance 軟體中建立的 Substance 材質與模型，只能在支援相同或更新版本 Substance 引擎的應用程式中使用
 
-請參考下方表格，了解 Substance 材質或 Substance 程序模型是否可用於您目前版本的軟體。 表格中並未列出每個應用程式的所有版本，只列出有更新的版本。 因此，若未指定版本，仍使用先前版本的Substance Engine。
+請參考下方表格，了解 Substance 材質或 Substance 程序模型是否適用於您目前版本的軟體。 表格並未列出每個應用程式的所有版本，只列出有更新的版本。 因此，如果未指定版本，它仍使用先前版本的 Substance 引擎。
 
 >[!NOTE]
 >
-> 要查詢你安裝的應用程式中使用了哪個 Substance 引擎、烘焙工具或自動展開版本，請使用 **Help > About**，然後使用 **「附加資訊** 」下拉選單查看完整概覽。
+> 若要查詢您已安裝應用程式中使用的 Substance 引擎、烘焙工具或自動展開版本，請使用 **說明>說明**，然後使用 **「其他資訊** 」下拉選單查看完整概覽。
 
 <table>
   <tr style="border: 0;">
@@ -33,7 +33,7 @@ Substance 軟體中建立的 Substance 材質與模型，僅能用於支援相�
   </tr>
 </table>
 
-| 應用程式版本 | 物質引擎版本 | 貝克斯版本 | 自動展開版本（Anorigami） |
+| 應用程式版本 | Substance 引擎版本 | Bakers 版本 | 自動展開版本（Anorigami） |
 | --- | --- | --- | --- |
 | **12.2.0** (2026/10/21) | 9.6.1 | 3.23.0 | 0.8.0 |
 | **12.1.3** | 9.4.6 | 3.22.2 |  |
@@ -66,7 +66,7 @@ Substance 軟體中建立的 Substance 材質與模型，僅能用於支援相�
   </tr>
 </table>
 
-| 應用程式版本 | 物質引擎版本 | 貝克斯版本 |
+| 應用程式版本 | Substance 引擎版本 | Bakers 版本 |
 | --- | --- | --- |
 | **16.0.7** 2026年10月8日 | 9.6.1 |  |
 | **16.0.4** 2026年7月2日 | 9.4.4 | 3.22.3 |
@@ -78,11 +78,11 @@ Substance 軟體中建立的 Substance 材質與模型，僅能用於支援相�
 | **13.1.0** 2023年12月12日 | 9.0.3 | 2.5.7 |
 | **13.0.2** 2023年7月27日 | 9.0.1 | 2.5.7 |
 | **13.0.0** 2023年6月6日 | 9.0.0 | 2.5.7 |
-| **12.4.0** 2023 **年1月31日 結構版本：** 2.0.2 | 8.6.4 | 2.5.6 |
+| **12.4.0** 2023 **年 1 月 31 日 結構版本：** 2.0.2 | 8.6.4 | 2.5.6 |
 | **12.3.0** 2022 **年10月6日 結構版本：** 2.0.2 | 8.6.4 | 2.5.6 |
 | **12.2.0** 2022 **年7月12日 結構版本：** 1.6.2 | 8.6.1 | 2.5.5 |
 | **12.1.0** 2022 **年4月26日 結構版本：** 1.6.2 | 8.4.1 | 2.5.4 |
-| **11.3.3** 2022 **年2月1日 結構版本：** 1.4.0 | 8.1.0 | 2.5.4 |
+| **11.3.3** 2022 **年 2 月 1 日 結構版本：** 1.4.0 | 8.1.0 | 2.5.4 |
 | **11.2.2** 2021 **年9月28日 結構版本：** 1.0.3 | 8.1.0 | 2.5.4 |
 | **11.1.2** 2021年3月17日 | 8.0.3 | 2.5.2 |
 | **10.2.2** 2020年12月17日 | 8.0.3 | 2.5.1 |
@@ -90,7 +90,7 @@ Substance 軟體中建立的 Substance 材質與模型，僅能用於支援相�
 
 +++舊版本
 
-| 應用程式版本 | 物質引擎版本 | 貝克斯版本 |
+| 應用程式版本 | Substance 引擎版本 | Bakers 版本 |
 | --- | --- | --- |
 | **9.6.1** 2026年9月24日 | 9.6.1 |  |
 | **9.3.3** 2020年2月14日 | 7.2.9 | 2.3.1 |
@@ -106,38 +106,38 @@ Substance 軟體中建立的 Substance 材質與模型，僅能用於支援相�
 
 <table>
   <tr style="border: 0;">
-    <td style="border: 0;" valign="top"><img src="../../assets/sa-appicon-noshadow-256.png" alt="Substance 3D 取樣圖示" title="Substance 3D 取樣圖示" width="64px"/></td>
+    <td style="border: 0;" valign="top"><img src="../../assets/sa-appicon-noshadow-256.png" alt="Substance 3D 取樣器圖示" title="Substance 3D 取樣器圖示" width="64px"/></td>
     <td style="border: 0;" valign="top">Substance 3D 取樣器</td>
   </tr>
 </table>
 
-| 應用程式版本 | 物質引擎版本 |
+| 應用程式版本 | Substance 引擎版本 |
 | --- | --- |
 | **6.0.4** 2026年9月24日 | 9.6.1 |
 | **6.0.1** 2026年5月21日 | 9.4.3 |
-| **4.2.2 多拉亞基** 2023年12月5日 | 9.0.3 |
-| **4.2.0 多拉亞奇** 2023年9月5日 | 9.0.1 |
+| **4.2.2 Dorayaki** 2023年12月5日 | 9.0.3 |
+| **4.2.0 Dorayaki** 2023年9月5日 | 9.0.1 |
 | **4.1.1 Cannoli** 2023年6月6日 | 9.0.0 |
 | **3.4.0 Arancini** 2023年9月6日 | 8.6.0 |
 | **3.2.1 燒鳥** 2022年3月6日 | 8.3.0 |
 | **3.2.0 燒鳥** 2022年1月25日 | 8.3.0 |
-| **3.1.1 索科阿特爾** 2021年11月24日 | 8.3.0 |
-| **3.1.0 索科阿特爾** 2021年9月28日 | 8.2.0 |
+| **3.1.1 Xocoatl** 2021年11月24日 | 8.3.0 |
+| **3.1.0 Xocoatl** 2021年9月28日 | 8.2.0 |
 | **2.3.1 （2020.3.1） Vermicelli** 2020年12月17日 | 8.0.5 |
 | **2.3.0 （2020.3.0） Vermicelli** 2020年10月26日 | 8.0.3 |
 | **1.1.3 （2019.1.3） Sesame** 2020年1月28日 | 7.2.8 |
 | **1.1.2 （2019.1.2） Sesame** 2019年12月11日 | 7.2.6 |
 | **1.1.1 （2019.1.1） Sesame** 2019年11月26日 | 7.2.4 |
-| **1.1.0 （2019.1.0） Sesame** 2019年11月4日 | 7.2.1 |
+| **1.1.0 （2019.1.0） 芝麻** 2019年11月4日 | 7.2.1 |
 
 <table>
   <tr style="border: 0;">
     <td style="border: 0;" valign="top"><img src="../../assets/sg-appicon-noshadow-256.png" alt="Substance 3D Stager 圖示" title="Substance 3D Stager 圖示" width="64px"/></td>
-    <td style="border: 0;" valign="top">物質3D分階段</td>
+    <td style="border: 0;" valign="top">Substance 3D Stager</td>
   </tr>
 </table>
 
-| 應用程式版本 | 物質引擎版本 |
+| 應用程式版本 | Substance 引擎版本 |
 | --- | --- |
 | **3.1.0** 2024年12月12日 | 9.1.2 |
 | **2.1.0** 2023年6月22日 | 9.0.0 |
@@ -150,10 +150,10 @@ Substance 軟體中建立的 Substance 材質與模型，僅能用於支援相�
 
 ## Substance 插件
 
-| 插件 | 物質引擎版本 | 結構版本 |
-| --- | --- | --- |
-| **瑪雅** 2.2.2 | 8.4.2 | N.A. |
-| **3ds Max** 2.4.6 | 8.0.3 | N.A. |
-| **攪拌機** | 8.4.2 | N.A. |
-| **統一** | 8.2.0 | N.A. |
-| **不真實** | 8.0.8 | N.A. |
+| 外掛 | Substance 引擎版本 |
+| --- | --- |
+| **Maya** 3.1.1 | 9.6.1 |
+| **3ds Max** 3.1.1 | 9.6.1 |
+| **Blender** 3.1.0 | 9.6.1 |
+| **Unity** 3.8.0 至 3.12.0 | 9.0.0 |
+| **Unreal** 5.8.2 | 9.5.1 |
