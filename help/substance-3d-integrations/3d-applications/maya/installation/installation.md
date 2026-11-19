@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya/installation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/installation.html"
 breadcrumb-title: ""
 description: 請使用官方安裝程式或透過 Maya 的外掛管理器安裝 Maya 的 Substance 外掛。
 helpx_creative_field: ""
@@ -10,19 +10,13 @@ helpx_tags: ""
 title: 下載並安裝
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
+source-git-commit: 0b6fbb25891bf442fc52b52089422ab0f762c1ae
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '91'
 ht-degree: 0%
 ---
 
 # 下載並安裝
-
-Substance in Maya 外掛預設包含在 Maya 安裝程式中。
-
-您可以從 [Adobe Substance 3D for Maya 頁面](https://substance3d.adobe.com/plugins/substance-in-maya/)下載更新版本的安裝程式。
-
-## 舊版外掛程式
 
 最新版本的外掛程式由 Autodesk 原生發行，搭配最新相容的 Maya 版本。 如果您需要針對舊版本的特定建置版本，請在下方下載連結
 
