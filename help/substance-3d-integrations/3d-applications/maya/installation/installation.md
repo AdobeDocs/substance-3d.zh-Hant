@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/installation.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-integrations/3d-applications/maya/installation.html"
 breadcrumb-title: ""
 description: 請使用官方安裝程式或透過 Maya 的外掛管理器安裝 Maya 的 Substance 外掛。
 helpx_creative_field: ""
