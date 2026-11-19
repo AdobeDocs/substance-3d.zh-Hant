@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## OpenPBR 工作流程
 
-在 Substance 選單&#x200B;****&#x200B;的&#x200B;**工作流程**&#x200B;清單中，有兩種 OpenPBR 工作流程：**Substance 到 OpenPBR** 和 **Substance 到 V-Ray OpenPBR**。這些工作流程專為使用 Substance 3D Designer 或 Sampler 中 OpenPBR 材質模型撰寫的 SBSAR 檔案而設計（OpenPBR 自 Designer V16.0+ 與 Sampler V6.0+ 起即為預設模型）。
+在 Substance 選單&#x200B;**&#x200B;**&#x200B;的&#x200B;**工作流程**&#x200B;清單中，有兩種 OpenPBR 工作流程：**Substance 到 OpenPBR** 和 **Substance 到 V-Ray OpenPBR**。這些工作流程專為使用 Substance 3D Designer 或 Sampler 中 OpenPBR 材質模型撰寫的 SBSAR 檔案而設計（OpenPBR 自 Designer V16.0+ 與 Sampler V6.0+ 起即為預設模型）。
 
 ![](../../../assets/maya-max-v3-1/3ds-max-openpbr-node-preview.png)
 
