@@ -46,7 +46,7 @@ ht-degree: 0%
 ## 變更解析度
 
 1. 在「物質輸出設定」中設定計算出的 Substance 貼圖所需的解析度。
-1. 若要支援最高 8K 解析度，請確認你使用的是 GPU 引擎，這在 Substance 設定](../../../3d-applications/3ds-max/settings-1/substance-settings.md)中[設定。
+1. 若要支援最高 8K 解析度，請確認你使用的是 GPU 引擎，這在 Substance 設定[&#128279;](../../../3d-applications/3ds-max/settings-1/substance-settings.md)中設定。
 
    ![](../../../assets/max6.png)
 
