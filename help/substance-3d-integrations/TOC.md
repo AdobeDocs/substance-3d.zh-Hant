@@ -2,9 +2,9 @@
 user-guide-description: Substance 3D 生態系統
 user-guide-title: Substance 3D 生態系統
 breadcrumb-title: Substance 3D 生態系統使用者指南
-source-git-commit: 6453364f7dafa75c5bb2531a8707257498953e23
+source-git-commit: 4df288c76e7c37d13798b4d1067466746678bb92
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 2%
 ---
 
@@ -180,7 +180,7 @@ ht-degree: 2%
     + [使用預設](/help/substance-3d-integrations/3d-applications/3ds-max/using-presets/using-presets.md)
     + [批次匯入](/help/substance-3d-integrations/3d-applications/3ds-max/batch-import/batch-import.md)
     + [在 3ds Max 中使用工作流程](/help/substance-3d-integrations/3d-applications/3ds-max/using-workflows-3ds-max/using-workflows-in-3ds-max.md)
-    + [物質來源](/help/substance-3d-integrations/3d-applications/3ds-max/source/substance-source.md)
+    + [Substance 3D Assets](/help/substance-3d-integrations/3d-applications/3ds-max/source/substance-source.md)
     + [為物質材質製作動畫](/help/substance-3d-integrations/3d-applications/3ds-max/animating-a-material/animating-a-substance-material.md)
     + [3ds MAX 腳本 API](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api/3ds-max-scripting-api.md)
     + [疑難排解](/help/substance-3d-integrations/3d-applications/3ds-max/troubleshooting/troubleshooting.md)
